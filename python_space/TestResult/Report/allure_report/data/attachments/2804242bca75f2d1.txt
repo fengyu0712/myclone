@@ -1,0 +1,4 @@
+[2019-10-22 20:04:06,652] - test_Login.py [Line:54] - [INFO]-[thread:25148]-[process:24616] - TestLogin测试开始:
+[2019-10-22 20:04:06,676] - http_request.py [Line:13] - [INFO]-[thread:25148]-[process:24616] - 正在进行【GET】请求
+[2019-10-22 20:04:07,316] - http_request.py [Line:22] - [INFO]-[thread:25148]-[process:24616] - 请求完成【status:200】
+[2019-10-22 20:04:07,317] - test_Login.py [Line:91] - [INFO]-[thread:25148]-[process:24616] - 第1条用例[正常登陆]测试通过

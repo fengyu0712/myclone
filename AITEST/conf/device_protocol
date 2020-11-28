@@ -1,0 +1,106 @@
+﻿[3308]
+online_data = {
+              "topic": "cloud.online",
+              "mid": uuid.uuid1().hex,
+              "version": "2.0",
+              "request": {
+              "apiVer": "1.0.0",
+              "timestamp": self.get_time_stamp(),
+
+              },
+              "params": {
+              "id": "3298544982176",
+              "sn": sn,
+              "clientId": clientId,
+              "category": "0xAC",
+              "magicCode": "TSETIA"
+              }
+              }
+[328]
+online_data = {
+              "topic": "cloud.online",
+              "version": "3.0",
+              "mid": uuid.uuid1().hex,
+              "request": {
+              "apiVer": "1.0.0",
+              "timestamp": self.get_time_stamp(),
+              "paramsSignBase64": "CD2leuWLTS81d4GSF1JqRrw/n8I="
+              },
+              "params": {
+              "category": "AC",
+              "clientId": clientId,
+              "id": "3298544982176",
+              "ip": "127.0.0.1",
+              "mac": "f0:c9:d1:85:25:39",
+              "model": "172",
+              "productId": "1596681815",
+              "sn": sn
+              }
+              }
+
+[FullDuplex]
+online_data = {
+              "topic": "cloud.online",
+              "version": "3.0",
+              "mid": uuid.uuid1().hex,
+              "request": {
+              "apiVer": "1.0.0",
+              "timestamp": self.get_time_stamp(),
+              "paramsSignBase64": "CD2leuWLTS81d4GSF1JqRrw/n8I="
+              },
+              "params": {
+              "category": "AC",
+              "clientId": clientId,
+              "id": "3298544982176",
+              "ip": "127.0.0.1",
+              "mac": "f0:c9:d1:85:25:39",
+              "model": "172",
+              "productId": "1596681815",
+              "sn": sn
+              }
+              }
+ota_check_data = {
+                 "topic": "cloud.ota.check",
+                 "mid": uuid.uuid1().hex,
+                 "version": "3.0",
+                 "request": {
+                 "timestamp": self.get_time_stamp(),
+                 },
+                 "params": {
+                 "sn": sn,
+                 "category": "AC",
+                 "model": "172",
+                 "id": "3298544982176",
+                 "clientId": clientId,
+                 "brand": "Midea",
+                 "hardwarePlat": "07",
+                 "hardwareVer": "01.01",
+                 "hardwareCategory": "03",
+                 "hardwareModel": "f4",
+                 "hardwareFullVer": "07.03.01.01.f4",
+                 "firmwareVer": "07.03.01.01.f4.20.10.05.01.06"
+                 }
+                 }
+audio_status_data = {
+                    "version": "3.0",
+                    "topic": "cloud.report.status",
+                    "mid": uuid.uuid1().hex,
+                    "category": "AC",
+                    "id": "3298544982176",
+                    "clientId": clientId,
+                    "sn": sn,
+                    "request": {
+                    "timestamp": self.get_time_stamp()
+                    },
+                    "params": {
+                    "status": [{
+                    "class": "audio",
+                    "audio": {
+                    "level": "4",
+                    "max": "99",
+                    "min": "1",
+                    "volume": "75"
+                    }
+                    }]
+                    }
+                    }

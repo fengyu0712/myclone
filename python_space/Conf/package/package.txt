@@ -1,0 +1,13 @@
+request
+requests
+selenium
+bs4
+pymysql
+xlrd
+xlwt
+pytest
+ddt
+Appium-Python-Client
+allure-pytest
+pyyaml
+pytest-rerunfailures

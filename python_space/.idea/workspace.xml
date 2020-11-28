@@ -1,0 +1,2701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Source/InterFere_Test/Login/login.py" line="82" />
+  </component>
+  <component name="ChangeListManager">
+<<<<<<< .mine
+    <list default="true" id="4e46f546-6a18-4f75-a6b3-a5a8ded222a2" name="Default" comment="性能相关">
+||||||| .r123
+    <list default="true" readonly="true" id="4e46f546-6a18-4f75-a6b3-a5a8ded222a2" name="Default" comment="接口自动化加入sql判断和自定义取期望值比较字段">
+=======
+    <list default="true" id="4e46f546-6a18-4f75-a6b3-a5a8ded222a2" name="Default" comment="接口自动化加入sql判断和自定义取期望值比较字段">
+>>>>>>> .r177
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_space.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_space.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atest/duoxiancheng/duoxiancheng.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atest/duoxiancheng/duoxiancheng.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/UI_Test/Web/test_login2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/UI_Test/Web/test_login2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testdata/Test_data1.xls" beforeDir="false" afterPath="$PROJECT_DIR$/Testdata/Test_data1.xls" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_pt_py.coverage" NAME="Unittests in pt.py Coverage Results" MODIFIED="1534139163738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test/Test_pytest" />
+    <SUITE FILE_PATH="coverage/python_space$Interface_process.coverage" NAME="Interface_process Coverage Results" MODIFIED="1562658587393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_test_pytestAI_py.coverage" NAME="pytest in test_pytestAI.py Coverage Results" MODIFIED="1562663771744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/testcase" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_test_login2_py.coverage" NAME="pytest in test_login2.py Coverage Results" MODIFIED="1554358878604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/UI_Test/Web" />
+    <SUITE FILE_PATH="coverage/python_space$main.coverage" NAME="main Coverage Results" MODIFIED="1533203425991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$py_test_in_test_py.coverage" NAME="py.test in test.py Coverage Results" MODIFIED="1534757806955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test/duoxiancheng" />
+    <SUITE FILE_PATH="coverage/python_space$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1534814098916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test/duoxiancheng" />
+    <SUITE FILE_PATH="coverage/python_space$conftest__2_.coverage" NAME="conftest (2) Coverage Results" MODIFIED="1534136939184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test/Test_pytest" />
+    <SUITE FILE_PATH="coverage/python_space$w_mysql.coverage" NAME="w_mysql Coverage Results" MODIFIED="1531811276697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test" />
+    <SUITE FILE_PATH="coverage/python_space$a.coverage" NAME="a Coverage Results" MODIFIED="1562999638711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/testcase/WS_Test" />
+    <SUITE FILE_PATH="coverage/python_space$py_test_in_duoxiancheng_py.coverage" NAME="py.test in duoxiancheng.py Coverage Results" MODIFIED="1534759287514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test/duoxiancheng" />
+    <SUITE FILE_PATH="coverage/python_space$py_test_in_test_login_py.coverage" NAME="py.test in test_login.py Coverage Results" MODIFIED="1534409168330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/UI_Test/Web" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_intetFere_py.coverage" NAME="Unittests in test_intetFere.py Coverage Results" MODIFIED="1529389677071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$py_xingneng.coverage" NAME="py_xingneng Coverage Results" MODIFIED="1552389520287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xingneng" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_test_mission_py.coverage" NAME="pytest in test_mission.py Coverage Results" MODIFIED="1543901412500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$logs.coverage" NAME="logs Coverage Results" MODIFIED="1561802405809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$play_voice.coverage" NAME="play_voice Coverage Results" MODIFIED="1562554256904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/AiVoice" />
+    <SUITE FILE_PATH="coverage/python_space$py_test_in_test_yewuliu_py.coverage" NAME="py.test in test_yewuliu.py Coverage Results" MODIFIED="1543827562049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test/new" />
+    <SUITE FILE_PATH="coverage/python_space$run_main_allure.coverage" NAME="run_main_allure Coverage Results" MODIFIED="1560763749991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestRunner" />
+    <SUITE FILE_PATH="coverage/python_space$1.coverage" NAME="1 Coverage Results" MODIFIED="1562656332624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$py_test_in_test_login2_py__1_.coverage" NAME="py.test in test_login2.py (1) Coverage Results" MODIFIED="1534413629270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/UI_Test/Web" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_smartExam_py.coverage" NAME="Unittests in test_smartExam.py Coverage Results" MODIFIED="1527843659965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/UI_Test/Android" />
+    <SUITE FILE_PATH="coverage/python_space$ASR_websocket_script_V1.coverage" NAME="ASR_websocket_script_V1 Coverage Results" MODIFIED="1544773362160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Midea-AI-test/测试/2.AI云端ASR测试/3.测试脚本" />
+    <SUITE FILE_PATH="coverage/python_space$py_test_in_test_everydayExam_py.coverage" NAME="py.test in test_everydayExam.py Coverage Results" MODIFIED="1534754931897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/UI_Test/Android" />
+    <SUITE FILE_PATH="coverage/python_space$login.coverage" NAME="login Coverage Results" MODIFIED="1526457148452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/InterFere_Test/Login" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_missionList_py.coverage" NAME="Unittests in test_missionList.py Coverage Results" MODIFIED="1526462041188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/InterFere_Test/mission_list" />
+    <SUITE FILE_PATH="coverage/python_space$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1528950183992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_222_py.coverage" NAME="Unittests in test_all.py Coverage Results" MODIFIED="1529394422716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source" />
+    <SUITE FILE_PATH="coverage/python_space$r_yd_text.coverage" NAME="r_yd_text Coverage Results" MODIFIED="1533199255215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test" />
+    <SUITE FILE_PATH="coverage/python_space$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1526458595149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_Object/Web/testpage" />
+    <SUITE FILE_PATH="coverage/python_space$run_main__1_.coverage" NAME="run_main (1) Coverage Results" MODIFIED="1543824632638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestRunner" />
+    <SUITE FILE_PATH="coverage/python_space$T1.coverage" NAME="T1 Coverage Results" MODIFIED="1544695679563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/python_space$runRecharge.coverage" NAME="runRecharge Coverage Results" MODIFIED="1523860323705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/IF_Test" />
+    <SUITE FILE_PATH="coverage/python_space$py_test_in_test_weblogin_py.coverage" NAME="py.test in test_weblogin.py Coverage Results" MODIFIED="1534477949790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test/Test_pytest" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_all_py.coverage" NAME="Unittests in test_all.py Coverage Results" MODIFIED="1533203433021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$createt_Testsuite.coverage" NAME="createt_Testsuite Coverage Results" MODIFIED="1543824280438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/python_space$write_xls.coverage" NAME="write_xls Coverage Results" MODIFIED="1533199057675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_run_test_py.coverage" NAME="Unittests in run_test.py Coverage Results" MODIFIED="1526460448385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/InterFere_Test/Login" />
+    <SUITE FILE_PATH="coverage/python_space$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1561450463271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$runtest.coverage" NAME="runtest Coverage Results" MODIFIED="1561803124815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/testcase" />
+    <SUITE FILE_PATH="coverage/python_space$Interface_process2.coverage" NAME="Interface_process2 Coverage Results" MODIFIED="1562660555630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_test_all_py.coverage" NAME="pytest in test_all.py Coverage Results" MODIFIED="1542106768217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$_bootstrap.coverage" NAME="_bootstrap Coverage Results" MODIFIED="1524809142577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python33/Lib/importlib" />
+    <SUITE FILE_PATH="coverage/python_space$c_driver.coverage" NAME="c_driver Coverage Results" MODIFIED="1541436242375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_test_login_py.coverage" NAME="pytest in test_login.py Coverage Results" MODIFIED="1548918363542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xingneng" />
+    <SUITE FILE_PATH="coverage/python_space$list_dict.coverage" NAME="list_dict Coverage Results" MODIFIED="1561369162350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$Main.coverage" NAME="Main Coverage Results" MODIFIED="1527823402215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_Object/Android" />
+    <SUITE FILE_PATH="coverage/python_space$lam.coverage" NAME="lam Coverage Results" MODIFIED="1529992151949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lambada" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_businessProcess_py.coverage" NAME="Unittests in test_businessProcess.py Coverage Results" MODIFIED="1527826727442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/UI_Test/Android" />
+    <SUITE FILE_PATH="coverage/python_space$MinePage.coverage" NAME="MinePage Coverage Results" MODIFIED="1534324685982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_Object/Android" />
+    <SUITE FILE_PATH="coverage/python_space$pt.coverage" NAME="pt Coverage Results" MODIFIED="1534141160671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test/Test_pytest" />
+    <SUITE FILE_PATH="coverage/python_space$zz.coverage" NAME="zz Coverage Results" MODIFIED="1527734799781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_test_login2_py__1_.coverage" NAME="pytest in test_login2.py (1) Coverage Results" MODIFIED="1542630199804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/UI_Test/Web_pytest" />
+    <SUITE FILE_PATH="coverage/python_space$home_page.coverage" NAME="home_page Coverage Results" MODIFIED="1534315401584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_Object/Web/testpage" />
+    <SUITE FILE_PATH="coverage/python_space$LoginPage.coverage" NAME="LoginPage Coverage Results" MODIFIED="1534328615018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_Object/Android" />
+    <SUITE FILE_PATH="coverage/python_space$Question_page.coverage" NAME="Question_page Coverage Results" MODIFIED="1527673163700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_Object/Android" />
+    <SUITE FILE_PATH="coverage/python_space$T_websocket.coverage" NAME="T_websocket Coverage Results" MODIFIED="1563155943177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_test_yewuliu_py.coverage" NAME="pytest in test_yewuliu.py Coverage Results" MODIFIED="1543975233185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test/new" />
+    <SUITE FILE_PATH="coverage/python_space$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1543823718296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_testReport_py.coverage" NAME="Unittests in testReport.py Coverage Results" MODIFIED="1524822077207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_logs_py.coverage" NAME="Unittests in logs.py Coverage Results" MODIFIED="1524729489369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/python_space$ASR_websocket_script_V1__1_.coverage" NAME="ASR_websocket_script_V1 (1) Coverage Results" MODIFIED="1545008560811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ws" />
+    <SUITE FILE_PATH="coverage/python_space$intetFere.coverage" NAME="intetFere Coverage Results" MODIFIED="1528973867101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$run_main_pytest.coverage" NAME="run_main_pytest Coverage Results" MODIFIED="1543824535199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestRunner" />
+    <SUITE FILE_PATH="coverage/python_space$regular.coverage" NAME="regular Coverage Results" MODIFIED="1528337134005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/python_space$run_main_allure__1_.coverage" NAME="run_main_allure (1) Coverage Results" MODIFIED="1534755006084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestRunner" />
+    <SUITE FILE_PATH="coverage/python_space$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1526455290423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/UI_Test/web" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_test_login1_py.coverage" NAME="pytest in test_login1.py Coverage Results" MODIFIED="1548921095576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xingneng" />
+    <SUITE FILE_PATH="coverage/python_space$conftest__1_.coverage" NAME="conftest (1) Coverage Results" MODIFIED="1534132861953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test/Web_pytest" />
+    <SUITE FILE_PATH="coverage/python_space$app_login.coverage" NAME="app_login Coverage Results" MODIFIED="1527646200781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PycharmProjects/bikaoti_app" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_test_JJ_py.coverage" NAME="pytest in test_JJ.py Coverage Results" MODIFIED="1562658333846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/testcase" />
+    <SUITE FILE_PATH="coverage/python_space$HomePage.coverage" NAME="HomePage Coverage Results" MODIFIED="1527823399254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_Object/Android" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_everydayExam_py.coverage" NAME="Unittests in test_everydayExam.py Coverage Results" MODIFIED="1527839391311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/UI_Test/Android" />
+    <SUITE FILE_PATH="coverage/python_space$test.coverage" NAME="test Coverage Results" MODIFIED="1562556243173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/AiVoice" />
+    <SUITE FILE_PATH="coverage/python_space$test_Login.coverage" NAME="test_Login Coverage Results" MODIFIED="1561427350714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/python_space$2.coverage" NAME="2 Coverage Results" MODIFIED="1562656354457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$http_request.coverage" NAME="http_request Coverage Results" MODIFIED="1544407299694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_test_mission_new_py.coverage" NAME="pytest in test_mission_new.py Coverage Results" MODIFIED="1561116727856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test/new" />
+    <SUITE FILE_PATH="coverage/python_space$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1529391686058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$baiduAI.coverage" NAME="baiduAI Coverage Results" MODIFIED="1562553505368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/AiVoice" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_login2_py__1_.coverage" NAME="Unittests in test_login2.py (1) Coverage Results" MODIFIED="1532422574092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/UI_Test/Web" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_test_websocket1_py.coverage" NAME="pytest in test_websocket1.py Coverage Results" MODIFIED="1563156977148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/testcase/WS_Test" />
+    <SUITE FILE_PATH="coverage/python_space$py_test_in_test_accountlogin_py.coverage" NAME="py.test in test_accountlogin.py Coverage Results" MODIFIED="1534473160011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/UI_Test/Android" />
+    <SUITE FILE_PATH="coverage/python_space$read_xls_news.coverage" NAME="read_xls_news Coverage Results" MODIFIED="1563002754161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_Login_py.coverage" NAME="Unittests in test_Login.py Coverage Results" MODIFIED="1533204070045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_mission_py.coverage" NAME="Unittests in test_mission.py Coverage Results" MODIFIED="1533203980650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$testReport.coverage" NAME="testReport Coverage Results" MODIFIED="1524709707873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_accountlogin_py.coverage" NAME="Unittests in test_accountlogin.py Coverage Results" MODIFIED="1527834646512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/UI_Test/Android" />
+    <SUITE FILE_PATH="coverage/python_space$websocket.coverage" NAME="websocket Coverage Results" MODIFIED="1562997805295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_run_py.coverage" NAME="Unittests in test_run.py Coverage Results" MODIFIED="1524739542365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/InterFere_Test/Login" />
+    <SUITE FILE_PATH="coverage/python_space$missionList__1_.coverage" NAME="missionList (1) Coverage Results" MODIFIED="1526462388956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/InterFere_Test/mission_list" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_runall_py__1_.coverage" NAME="Unittests in test_all.py Coverage Results" MODIFIED="1529395327120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test/Login" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_t3_py.coverage" NAME="pytest in t3.py Coverage Results" MODIFIED="1561724960438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test/new" />
+    <SUITE FILE_PATH="coverage/python_space$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1534474915747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test/Test_pytest" />
+    <SUITE FILE_PATH="coverage/python_space$py_test_in_accountlogin_py.coverage" NAME="py.test in accountlogin.py Coverage Results" MODIFIED="1534148857120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/UI_Test/Android" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_t2_py.coverage" NAME="pytest in t2.py Coverage Results" MODIFIED="1561425526478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test/new" />
+    <SUITE FILE_PATH="coverage/python_space$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1529391311370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestRunner" />
+    <SUITE FILE_PATH="coverage/python_space$tqdm.coverage" NAME="tqdm Coverage Results" MODIFIED="1534753840565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_for_account_login_test_AccountLoginTest_setUpClass.coverage" NAME="Unittests for account_login_test.AccountLoginTest.setUpClass Coverage Results" MODIFIED="1527644989151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/UI_Test/Android" />
+    <SUITE FILE_PATH="coverage/python_space$missionList.coverage" NAME="missionList Coverage Results" MODIFIED="1529391278926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/InterFere_Test/mission_list" />
+    <SUITE FILE_PATH="coverage/python_space$py_test_in_test_login2_py.coverage" NAME="py.test in test_login2.py Coverage Results" MODIFIED="1534404236661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/UI_Test/Web" />
+    <SUITE FILE_PATH="coverage/python_space$tqdm1.coverage" NAME="tqdm1 Coverage Results" MODIFIED="1534753883686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_login_test02_py.coverage" NAME="Unittests in login_test02.py Coverage Results" MODIFIED="1526459760506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/UI_Test/web" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_for_t2_TestLogin_test_run.coverage" NAME="pytest for t2.TestLogin.test_run Coverage Results" MODIFIED="1561427328807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test/new" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1526542711808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/UI_Test/Web" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in__D__Users_ex_lijq4_Documents_python_space_TestCase_InterFere_Test_new_test_Login_py.coverage" NAME="Unittests in test_Login.py Coverage Results" MODIFIED="1543924160505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_test_Login_py.coverage" NAME="pytest in test_Login.py Coverage Results" MODIFIED="1543927002701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$Project_path.coverage" NAME="Project_path Coverage Results" MODIFIED="1563002583674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conf" />
+    <SUITE FILE_PATH="coverage/python_space$log.coverage" NAME="log Coverage Results" MODIFIED="1561603245245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1534757922766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test/duoxiancheng" />
+    <SUITE FILE_PATH="coverage/python_space$ResultPage.coverage" NAME="ResultPage Coverage Results" MODIFIED="1527756112159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_Object/Android" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_Login_py__1_.coverage" NAME="Unittests in test_Login.py (1) Coverage Results" MODIFIED="1543924153305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$Project_path__1_.coverage" NAME="Project_path (1) Coverage Results" MODIFIED="1523869672198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conf" />
+    <SUITE FILE_PATH="coverage/python_space$http_request__1_.coverage" NAME="http_request (1) Coverage Results" MODIFIED="1561182788283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_login2_py.coverage" NAME="Unittests in test_login2.py Coverage Results" MODIFIED="1534135135955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test/Web_pytest" />
+    <SUITE FILE_PATH="coverage/python_space$excel.coverage" NAME="excel Coverage Results" MODIFIED="1528340425737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_login_little_py.coverage" NAME="Unittests in login_little.py Coverage Results" MODIFIED="1530154139139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test" />
+    <SUITE FILE_PATH="coverage/python_space$bid_page.coverage" NAME="bid_page Coverage Results" MODIFIED="1526469196205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_Object/Web/testpage" />
+    <SUITE FILE_PATH="coverage/python_space$read_txt.coverage" NAME="read_txt Coverage Results" MODIFIED="1533198062785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/python_space$interfere_testReport.coverage" NAME="interfere_testReport Coverage Results" MODIFIED="1524742609273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$conf.coverage" NAME="conf Coverage Results" MODIFIED="1541435684656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/python_space$duoxiancheng.coverage" NAME="duoxiancheng Coverage Results" MODIFIED="1542630004857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Atest/duoxiancheng" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_all_py__1_.coverage" NAME="Unittests in test_all.py (1) Coverage Results" MODIFIED="1529402804664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$user_info.coverage" NAME="user_info Coverage Results" MODIFIED="1526469098603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_Object/Web/testpage" />
+    <SUITE FILE_PATH="coverage/python_space$WSsingle.coverage" NAME="WSsingle Coverage Results" MODIFIED="1562931240611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1534756685974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test/duoxiancheng" />
+    <SUITE FILE_PATH="coverage/python_space$login_little.coverage" NAME="login_little Coverage Results" MODIFIED="1532417097805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_test_Login_py__1_.coverage" NAME="pytest in test_Login.py (1) Coverage Results" MODIFIED="1543922803248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/InterFere_Test" />
+    <SUITE FILE_PATH="coverage/python_space$twebsocket.coverage" NAME="twebsocket Coverage Results" MODIFIED="1562997856266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_interfere_py__1_.coverage" NAME="Unittests in testinterfere.py Coverage Results" MODIFIED="1529396368043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source" />
+    <SUITE FILE_PATH="coverage/python_space$interfere.coverage" NAME="interfere Coverage Results" MODIFIED="1529391905074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_1_py.coverage" NAME="Unittests in test_1.py Coverage Results" MODIFIED="1534129647763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test" />
+    <SUITE FILE_PATH="coverage/python_space$My_websocket.coverage" NAME="My_websocket Coverage Results" MODIFIED="1544782416659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/websocket_test" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_test_weblogin_py.coverage" NAME="Unittests in test_weblogin.py Coverage Results" MODIFIED="1534141671470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test/Test_pytest" />
+    <SUITE FILE_PATH="coverage/python_space$111.coverage" NAME="111 Coverage Results" MODIFIED="1529390666538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source" />
+    <SUITE FILE_PATH="coverage/python_space$Interface_process1.coverage" NAME="Interface_process1 Coverage Results" MODIFIED="1562997579077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$run_main_allure1.coverage" NAME="run_main_allure1 Coverage Results" MODIFIED="1555401062262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestRunner" />
+    <SUITE FILE_PATH="coverage/python_space$Unittests_in_account_login_test_py.coverage" NAME="Unittests in account_login_test.py Coverage Results" MODIFIED="1527644884949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/UI_Test/Android" />
+    <SUITE FILE_PATH="coverage/python_space$run.coverage" NAME="run Coverage Results" MODIFIED="1534481621469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1test/Test_pytest" />
+    <SUITE FILE_PATH="coverage/python_space$http_request1.coverage" NAME="http_request1 Coverage Results" MODIFIED="1561799176592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AITEST/Common" />
+    <SUITE FILE_PATH="coverage/python_space$pytest_in_websocket_py.coverage" NAME="pytest in websocket.py Coverage Results" MODIFIED="1544420139323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/python_space$runLogin.coverage" NAME="runLogin Coverage Results" MODIFIED="1524643953350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/IF_Test" />
+    <SUITE FILE_PATH="coverage/python_space$main_pytest.coverage" NAME="main_pytest Coverage Results" MODIFIED="1534470985075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestRunner" />
+    <SUITE FILE_PATH="coverage/python_space$run_alltest.coverage" NAME="run_alltest Coverage Results" MODIFIED="1524652771625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source" />
+    <SUITE FILE_PATH="coverage/python_space$read_xls.coverage" NAME="read_xls Coverage Results" MODIFIED="1528340647036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="352" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python_space" />
+  </component>
+  <component name="FileEditorManager">
+<<<<<<< .mine
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AITEST/testcase/WS_Test/test_websocket1.py">
+||||||| .r123
+    <leaf>
+      <file leaf-file-name="t1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/new/t1.py">
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Conf/package/package.txt">
+>>>>>>> .r177
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+            <state relative-caret-position="595">
+              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+||||||| .r123
+            <state relative-caret-position="535">
+              <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+              <folding>
+                <element signature="e#29#66#0" expanded="true" />
+              </folding>
+=======
+            <state relative-caret-position="209">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+>>>>>>> .r177
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< .mine
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AITEST/Common/T_websocket.py">
+||||||| .r123
+      <file leaf-file-name="test_yewuliu.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/new/test_yewuliu.py">
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Common/PC_cmd.py">
+>>>>>>> .r177
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+            <state relative-caret-position="272">
+              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+||||||| .r123
+            <state relative-caret-position="263">
+              <caret line="36" column="69" lean-forward="true" selection-start-line="36" selection-start-column="69" selection-end-line="36" selection-end-column="69" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+=======
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+>>>>>>> .r177
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< .mine
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conf/Project_path.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/test_Login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1248">
+              <caret line="86" column="45" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="45" />
+              <folding>
+                <element signature="e#29#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+||||||| .r123
+      <file leaf-file-name="test_mission_new.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/new/test_mission_new.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+              <folding>
+                <element signature="e#29#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conf/env_config.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> .r177
+        </entry>
+      </file>
+<<<<<<< .mine
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AITEST/Common/read_xls_news.py">
+||||||| .r123
+      <file leaf-file-name="test_Login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/new/test_Login.py">
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conf/http.conf">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conf/Project_path.py">
+>>>>>>> .r177
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+            <state relative-caret-position="576">
+              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+||||||| .r123
+            <state relative-caret-position="273">
+              <caret line="97" column="8" lean-forward="true" selection-start-line="97" selection-start-column="8" selection-end-line="98" selection-end-column="44" />
+=======
+            <state relative-caret-position="38">
+              <caret line="2" column="59" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="59" />
+>>>>>>> .r177
+              <folding>
+<<<<<<< .mine
+                <element signature="e#0#11#0" expanded="true" />
+||||||| .r123
+                <element signature="e#29#66#0" expanded="true" />
+=======
+                <element signature="e#0#9#0" expanded="true" />
+>>>>>>> .r177
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pytes</find>
+      <find>pytest</find>
+      <find>conftest</find>
+      <find>c</find>
+      <find>n</find>
+      <find>now</find>
+      <find>nowti</find>
+      <find>nowtime</find>
+      <find>u</find>
+      <find>ur</find>
+      <find>url</find>
+      <find>stay_location</find>
+      <find>%</find>
+      <find>%s</find>
+      <find>InsecureRequestWarning</find>
+      <find>data</find>
+      <find>mts</find>
+      <find>o</find>
+      <find>on_message</find>
+      <find>thr</find>
+      <find>true</find>
+      <find>up_data1</find>
+      <find>pri</find>
+      <find>print</find>
+      <find>pac</find>
+      <find>-s</find>
+      <find>alluredir</find>
+      <find>PER</find>
+      <find>/</find>
+      <find>\</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>test_data</replace>
+      <replace>self.fh.</replace>
+      <replace>:</replace>
+      <replace>mine</replace>
+      <replace>智能练习</replace>
+      <replace>/</replace>
+      <replace>Log</replace>
+      <replace>self.Log</replace>
+      <replace>Web_driver_class</replace>
+      <replace>write_onlydata</replace>
+      <replace>parameter</replace>
+      <replace>\</replace>
+      <replace>\\</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\python_space\TestCase\UI_Test\Android</dir>
+      <dir>E:\python_space\Page_Object</dir>
+      <dir>E:\python_space\TestCase</dir>
+      <dir>E:\python_space\Common</dir>
+      <dir>E:\python_space\TestResult\Report\assets</dir>
+      <dir>E:\python_space</dir>
+      <dir>D:\Program Files\Python36\Lib\site-packages</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+<<<<<<< .mine
+        <option value="$PROJECT_DIR$/Conf/interf_TestMode.conf" />
+        <option value="$PROJECT_DIR$/Common/websocket.py" />
+        <option value="$PROJECT_DIR$/Common/T1.py" />
+        <option value="$PROJECT_DIR$/Atest/1.py" />
+        <option value="$PROJECT_DIR$/../Midea-AI-test/测试/2.AI云端ASR测试/3.测试脚本/ASR_websocket_script_V1.py" />
+        <option value="$PROJECT_DIR$/Source/websocket_test/My_websocket.py" />
+        <option value="$PROJECT_DIR$/../ws/ASR_websocket_script_V1.py" />
+        <option value="$PROJECT_DIR$/xingneng/test_login.py" />
+        <option value="$PROJECT_DIR$/xingneng/test_login1.py" />
+        <option value="$PROJECT_DIR$/xingneng/py_xingneng.py" />
+        <option value="$PROJECT_DIR$/../ws/Code/test.py" />
+        <option value="$PROJECT_DIR$/TestRunner/__init__.py" />
+        <option value="$PROJECT_DIR$/Common/globalvar.py" />
+        <option value="$PROJECT_DIR$/Common/log.py" />
+||||||| .r123
+        <option value="$PROJECT_DIR$/Page_Object/Web/testpage/home_page.py" />
+        <option value="$PROJECT_DIR$/Page_Object/Web/testpage/login_page.py" />
+        <option value="$PROJECT_DIR$/Page_Object/Web/testpage/user_info.py" />
+        <option value="$PROJECT_DIR$/Conf/web.conf" />
+        <option value="$PROJECT_DIR$/Page_Object/Android/LoginPage.py" />
+        <option value="$PROJECT_DIR$/Source/UI_Test/Web/test_login2.py" />
+        <option value="$PROJECT_DIR$/TestRunner/main_pytest.py" />
+        <option value="$PROJECT_DIR$/Conf/env_config.yml" />
+        <option value="$PROJECT_DIR$/1test/Test_pytest/conftest.py" />
+        <option value="$PROJECT_DIR$/1test/Test_pytest/test_weblogin.py" />
+        <option value="$PROJECT_DIR$/TestCase/InterFere_Test/test_all.py" />
+        <option value="$PROJECT_DIR$/TestCase/UI_Test/Android/test1_smartExam.py" />
+        <option value="$PROJECT_DIR$/TestCase/UI_Test/Android/test_accountlogin.py" />
+        <option value="$PROJECT_DIR$/1test/Test_pytest/run.py" />
+        <option value="$PROJECT_DIR$/Page_Object/Android/MinePage.py" />
+        <option value="$PROJECT_DIR$/Page_Object/Android/Public.py" />
+        <option value="$PROJECT_DIR$/Conf/bkt_user.conf" />
+        <option value="$PROJECT_DIR$/1test/tqdm.py" />
+        <option value="$PROJECT_DIR$/1test/tqdm1.py" />
+        <option value="$PROJECT_DIR$/1test/2.py" />
+        <option value="$PROJECT_DIR$/1test/1.py" />
+        <option value="$PROJECT_DIR$/TestCase/UI_Test/Android/test_everydayExam.py" />
+        <option value="$PROJECT_DIR$/1test/duoxiancheng.py" />
+        <option value="$PROJECT_DIR$/1test/duoxiancheng/1.py" />
+        <option value="$PROJECT_DIR$/1test/duoxiancheng/test.py" />
+        <option value="$PROJECT_DIR$/1test/duoxiancheng/run_main.py" />
+        <option value="$PROJECT_DIR$/1test/duoxiancheng/duoxiancheng.py" />
+        <option value="$PROJECT_DIR$/Common/c_driver.py" />
+        <option value="$PROJECT_DIR$/Common/write_xls.py" />
+=======
+        <option value="$PROJECT_DIR$/Source/UI_Test/Web/test_login2.py" />
+        <option value="$PROJECT_DIR$/TestRunner/main_pytest.py" />
+        <option value="$PROJECT_DIR$/Conf/env_config.yml" />
+        <option value="$PROJECT_DIR$/1test/Test_pytest/conftest.py" />
+        <option value="$PROJECT_DIR$/1test/Test_pytest/test_weblogin.py" />
+        <option value="$PROJECT_DIR$/TestCase/InterFere_Test/test_all.py" />
+        <option value="$PROJECT_DIR$/TestCase/UI_Test/Android/test1_smartExam.py" />
+        <option value="$PROJECT_DIR$/TestCase/UI_Test/Android/test_accountlogin.py" />
+        <option value="$PROJECT_DIR$/1test/Test_pytest/run.py" />
+        <option value="$PROJECT_DIR$/Page_Object/Android/MinePage.py" />
+        <option value="$PROJECT_DIR$/Page_Object/Android/Public.py" />
+        <option value="$PROJECT_DIR$/Conf/bkt_user.conf" />
+        <option value="$PROJECT_DIR$/1test/tqdm.py" />
+        <option value="$PROJECT_DIR$/1test/tqdm1.py" />
+        <option value="$PROJECT_DIR$/1test/2.py" />
+        <option value="$PROJECT_DIR$/1test/1.py" />
+        <option value="$PROJECT_DIR$/TestCase/UI_Test/Android/test_everydayExam.py" />
+        <option value="$PROJECT_DIR$/1test/duoxiancheng.py" />
+        <option value="$PROJECT_DIR$/1test/duoxiancheng/1.py" />
+        <option value="$PROJECT_DIR$/1test/duoxiancheng/test.py" />
+        <option value="$PROJECT_DIR$/1test/duoxiancheng/run_main.py" />
+        <option value="$PROJECT_DIR$/1test/duoxiancheng/duoxiancheng.py" />
+        <option value="$PROJECT_DIR$/Common/c_driver.py" />
+        <option value="$PROJECT_DIR$/Common/write_xls.py" />
+>>>>>>> .r177
+        <option value="$PROJECT_DIR$/TestRunner/run_main_allure.py" />
+        <option value="$PROJECT_DIR$/Common/http_request.py" />
+        <option value="$PROJECT_DIR$/TestCase/InterFere_Test/new/test_mission_new.py" />
+        <option value="$PROJECT_DIR$/AITEST/Common/http_request.py" />
+        <option value="$PROJECT_DIR$/AITEST/Common/list_dict.py" />
+        <option value="$PROJECT_DIR$/AITEST/Common/Interface_process.py" />
+        <option value="$PROJECT_DIR$/TestCase/InterFere_Test/new/test_Login.py" />
+        <option value="$PROJECT_DIR$/TestCase/InterFere_Test/new/t2.py" />
+        <option value="$PROJECT_DIR$/AITEST/Common/__init__.py" />
+        <option value="$PROJECT_DIR$/TestCase/InterFere_Test/new/t3.py" />
+        <option value="$PROJECT_DIR$/AITEST/Common/2.py" />
+        <option value="$PROJECT_DIR$/AITEST/Common/1.py" />
+        <option value="$PROJECT_DIR$/AITEST/Common/http_request1.py" />
+        <option value="$PROJECT_DIR$/AITEST/Common/logs.py" />
+        <option value="$PROJECT_DIR$/AITEST/Common/log.py" />
+        <option value="$PROJECT_DIR$/AITEST/testcase/test_JJ.py" />
+        <option value="$PROJECT_DIR$/AITEST/testcase/runtest.py" />
+        <option value="$PROJECT_DIR$/AITEST/AiVoice/play_voice.py" />
+        <option value="$PROJECT_DIR$/AITEST/AiVoice/baiduAI.py" />
+        <option value="$PROJECT_DIR$/AITEST/AiVoice/__init__.py" />
+        <option value="$PROJECT_DIR$/AITEST/AiVoice/test.py" />
+        <option value="$PROJECT_DIR$/AITEST/Common/Interface_process2.py" />
+        <option value="$PROJECT_DIR$/AITEST/Common/Interface_process1.py" />
+        <option value="$PROJECT_DIR$/AITEST/testcase/test_pytestAI.py" />
+        <option value="$PROJECT_DIR$/Conf/wss.conf" />
+        <option value="$PROJECT_DIR$/AITEST/Common/WSsingle.py" />
+        <option value="$PROJECT_DIR$/TestCase/WS_Test/test_websocket1.py" />
+        <option value="$PROJECT_DIR$/AITEST/WS_Test/test_websocket1.py" />
+        <option value="$PROJECT_DIR$/AITEST/Common/websocket.py" />
+        <option value="$PROJECT_DIR$/AITEST/testcase/WS_Test/.pytest_cache/a.py" />
+        <option value="$PROJECT_DIR$/Conf/ws.conf" />
+        <option value="$PROJECT_DIR$/AITEST/testcase/WS_Test/a.py" />
+        <option value="$PROJECT_DIR$/Conf/Project_path.py" />
+        <option value="$PROJECT_DIR$/AITEST/Common/read_xls_news.py" />
+        <option value="$PROJECT_DIR$/TestCase/InterFere_Test/test_Login.py" />
+        <option value="$PROJECT_DIR$/AITEST/Common/T_websocket.py" />
+        <option value="$PROJECT_DIR$/AITEST/testcase/WS_Test/test_websocket1.py" />
+        <option value="$PROJECT_DIR$/Conf/package.txt" />
+        <option value="$PROJECT_DIR$/Common/PC_cmd.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/Conf/package/install_package.py" />
+        <option value="$PROJECT_DIR$/Conf/package/package.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-68" />
+    <option name="y" value="25" />
+    <option name="width" value="1537" />
+    <option name="height" value="864" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_space" type="462c0819:PsiDirectoryNode" />
+            </path>
+<<<<<<< .mine
+            <path>
+              <item name="python_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_space" type="462c0819:PsiDirectoryNode" />
+              <item name="AITEST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_space" type="462c0819:PsiDirectoryNode" />
+              <item name="AITEST" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_space" type="462c0819:PsiDirectoryNode" />
+              <item name="AITEST" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="WS_Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_space" type="462c0819:PsiDirectoryNode" />
+              <item name="Testdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_space" type="462c0819:PsiDirectoryNode" />
+              <item name="TestResult" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_space" type="462c0819:PsiDirectoryNode" />
+              <item name="TestResult" type="462c0819:PsiDirectoryNode" />
+              <item name="Result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+||||||| .r123
+            <path>
+              <item name="python_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_space" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_space" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCase" type="462c0819:PsiDirectoryNode" />
+              <item name="InterFere_Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_space" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCase" type="462c0819:PsiDirectoryNode" />
+              <item name="InterFere_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="new" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_space" type="462c0819:PsiDirectoryNode" />
+              <item name="TestRunner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+=======
+>>>>>>> .r177
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="base.py&#9;FILE&#9;file://D:/Python33/xlrd-0.9.4/tests/base.py&#10;@a&#9;null&#9;null&#10;suit&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Program Files/Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\svn\python_space\Conf\package" />
+      <recent name="F:\python_space\TestCase\InterFere_Test\new" />
+      <recent name="E:\python_space\1test\duoxiancheng" />
+      <recent name="E:\python_space\TestResult\Result" />
+      <recent name="E:\python_space\TestRunner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python_space\Testdata" />
+      <recent name="E:\python_space\AITEST\Common" />
+      <recent name="E:\python_space\AITEST\testcase" />
+      <recent name="E:\python_space\Source\websocket_test" />
+      <recent name="D:\Users\ex_lijq4\Documents\python_space\TestCase\InterFere_Test\new" />
+    </key>
+<<<<<<< .mine
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python_space\AITEST\testcase\WS_Test" />
+      <recent name="E:\python_space\AITEST\testcase" />
+      <recent name="E:\python_space\AITEST" />
+      <recent name="E:\python_space\AITEST\testdata" />
+      <recent name="E:\python_space\AITEST\Common" />
+    </key>
+||||||| .r123
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\python_space\TestCase\InterFere_Test\new" />
+      <recent name="E:\python_space\1test\duoxiancheng" />
+      <recent name="E:\python_space\TestResult\Result" />
+      <recent name="E:\python_space\TestRunner" />
+      <recent name="E:\python_space\1test\Test_pytest" />
+    </key>
+=======
+>>>>>>> .r177
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+<<<<<<< .mine
+  <component name="RunManager" selected="Python tests.pytest in test_websocket1.py">
+    <configuration name="Project_path" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Conf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Conf/Project_path.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="T_websocket" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AITEST/Common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AITEST/Common/T_websocket.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+||||||| .r123
+  <component name="RunManager" selected="Python tests.py.test in test_mission_new.py">
+=======
+  <component name="RunManager" selected="Python.install_package">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+>>>>>>> .r177
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AITEST/testcase/WS_Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AITEST/testcase/WS_Test/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="http_request" type="PythonConfigurationType" factoryName="Python">
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\python_space\AITEST\Common\http_request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< .mine
+    <configuration name="read_xls_news" type="PythonConfigurationType" factoryName="Python" temporary="true">
+||||||| .r123
+    <configuration name="run_main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="install_package" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> .r177
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+<<<<<<< .mine
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AITEST/Common" />
+||||||| .r123
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestRunner" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Conf/package" />
+>>>>>>> .r177
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< .mine
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AITEST/Common/read_xls_news.py" />
+||||||| .r123
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestRunner/run_main.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Conf/package/install_package.py" />
+>>>>>>> .r177
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_main" type="PythonConfigurationType" factoryName="Python">
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1test/duoxiancheng" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1test/duoxiancheng/run_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_main_allure" type="PythonConfigurationType" factoryName="Python">
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestRunner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestRunner/run_main_allure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_Login" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCase/InterFere_Test/new/test_Login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+<<<<<<< .mine
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+||||||| .r123
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+=======
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+>>>>>>> .r177
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Python33\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+<<<<<<< .mine
+    <configuration name="pytest in test_websocket1.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+||||||| .r123
+    <configuration name="py.test in test_Login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="pytest in test_mission_new.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+>>>>>>> .r177
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AITEST/testcase/WS_Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+<<<<<<< .mine
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/AITEST/testcase/WS_Test/test_websocket1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+||||||| .r123
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/InterFere_Test/new/test_Login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test in test_mission_new.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/InterFere_Test/new" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/InterFere_Test/new/test_mission_new.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test in test_yewuliu.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/InterFere_Test/new" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/InterFere_Test/new/test_yewuliu.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+=======
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/InterFere_Test/new/test_mission_new.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_yewuliu.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/InterFere_Test/new" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/InterFere_Test/new/test_yewuliu.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+>>>>>>> .r177
+    <list>
+      <item itemvalue="Python.test_Login" />
+      <item itemvalue="Python.run_main" />
+      <item itemvalue="Python.http_request" />
+      <item itemvalue="Python.run_main_allure" />
+<<<<<<< .mine
+      <item itemvalue="Python.Project_path" />
+      <item itemvalue="Python.a" />
+      <item itemvalue="Python.T_websocket" />
+      <item itemvalue="Python.read_xls_news" />
+      <item itemvalue="Python tests.pytest in test_websocket1.py" />
+||||||| .r123
+      <item itemvalue="Python.run_main (1)" />
+      <item itemvalue="Python.t2" />
+      <item itemvalue="Python tests.py.test in test_Login.py" />
+      <item itemvalue="Python tests.py.test in test_yewuliu.py" />
+      <item itemvalue="Python tests.py.test in test_mission_new.py" />
+=======
+      <item itemvalue="Python.t2" />
+      <item itemvalue="Python tests.pytest in test_yewuliu.py" />
+      <item itemvalue="Python tests.pytest in test_mission_new.py" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.install_package" />
+>>>>>>> .r177
+    </list>
+    <recent_temporary>
+      <list>
+<<<<<<< .mine
+        <item itemvalue="Python tests.pytest in test_websocket1.py" />
+        <item itemvalue="Python.T_websocket" />
+        <item itemvalue="Python.read_xls_news" />
+        <item itemvalue="Python.Project_path" />
+        <item itemvalue="Python.a" />
+||||||| .r123
+        <item itemvalue="Python tests.py.test in test_mission_new.py" />
+        <item itemvalue="Python tests.py.test in test_yewuliu.py" />
+        <item itemvalue="Python.t2" />
+        <item itemvalue="Python tests.py.test in test_Login.py" />
+        <item itemvalue="Python.run_main (1)" />
+=======
+        <item itemvalue="Python.install_package" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python tests.pytest in test_mission_new.py" />
+        <item itemvalue="Python tests.pytest in test_yewuliu.py" />
+        <item itemvalue="Python.t2" />
+>>>>>>> .r177
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" myAutoUpdateAfterCommit="true" cleanupOnStartRun="true">
+<<<<<<< .mine
+    <configuration>D:\Users\lijq36\AppData\Roaming\Subversion</configuration>
+||||||| .r123
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+=======
+    <configuration>C:\Users\Lee\AppData\Roaming\Subversion</configuration>
+>>>>>>> .r177
+    <supportedVersion>125</supportedVersion>
+    <option name="UPDATE_DEPTH" value="infinity" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e46f546-6a18-4f75-a6b3-a5a8ded222a2" name="Default" comment="" />
+      <created>1523677249925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523677249925</updated>
+      <workItem from="1543822341350" duration="2303000" />
+      <workItem from="1543824683221" duration="1093000" />
+      <workItem from="1543825872032" duration="263000" />
+      <workItem from="1543826139012" duration="25000" />
+      <workItem from="1543826297457" duration="106000" />
+      <workItem from="1543826434795" duration="253000" />
+      <workItem from="1543827535176" duration="2878000" />
+      <workItem from="1543885356515" duration="1139000" />
+      <workItem from="1543897151538" duration="678000" />
+      <workItem from="1543900975573" duration="162000" />
+      <workItem from="1543901169971" duration="117000" />
+      <workItem from="1543901373710" duration="779000" />
+      <workItem from="1543917840614" duration="194000" />
+      <workItem from="1543918065155" duration="4307000" />
+      <workItem from="1543925064678" duration="1116000" />
+      <workItem from="1543926868765" duration="659000" />
+      <workItem from="1543975124712" duration="1468000" />
+      <workItem from="1544405903817" duration="1663000" />
+      <workItem from="1544419790386" duration="4271000" />
+      <workItem from="1544444020863" duration="787000" />
+      <workItem from="1544612708543" duration="2168000" />
+      <workItem from="1544682144279" duration="6052000" />
+      <workItem from="1544771123804" duration="8209000" />
+      <workItem from="1544780256672" duration="2203000" />
+      <workItem from="1545007797404" duration="2311000" />
+      <workItem from="1546052535146" duration="101000" />
+      <workItem from="1547204814615" duration="622000" />
+      <workItem from="1547429188796" duration="96000" />
+      <workItem from="1548914695916" duration="1523000" />
+      <workItem from="1548916863384" duration="5737000" />
+      <workItem from="1550027670840" duration="55000" />
+      <workItem from="1552385166509" duration="3527000" />
+      <workItem from="1553320652822" duration="593000" />
+      <workItem from="1553481722962" duration="464000" />
+      <workItem from="1554358863745" duration="4506000" />
+      <workItem from="1554886383248" duration="91000" />
+      <workItem from="1555397829445" duration="1249000" />
+      <workItem from="1555400820986" duration="2112000" />
+      <workItem from="1560759285628" duration="1147000" />
+      <workItem from="1560762550555" duration="4722000" />
+      <workItem from="1561020643587" duration="10329000" />
+      <workItem from="1561110871564" duration="13648000" />
+      <workItem from="1561182582092" duration="194000" />
+      <workItem from="1561367279889" duration="22832000" />
+      <workItem from="1561440178249" duration="23166000" />
+      <workItem from="1561600916551" duration="4960000" />
+      <workItem from="1561724665867" duration="1443000" />
+      <workItem from="1561775258364" duration="20943000" />
+      <workItem from="1562552526470" duration="4272000" />
+      <workItem from="1562653733786" duration="8080000" />
+      <workItem from="1562736929472" duration="21000" />
+      <workItem from="1562929277506" duration="14911000" />
+      <workItem from="1563155625223" duration="2540000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1527648536854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527648536854</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1527648593029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1527648593029</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1527649956263</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527649956263</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1527650009995</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1527650009995</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1527652119587</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1527652119587</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1527678394501</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1527678394501</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1527678601699</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1527678601699</updated>
+    </task>
+    <task id="LOCAL-00008">
+      <created>1527762032302</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1527762032302</updated>
+    </task>
+    <task id="LOCAL-00009">
+      <created>1527846401156</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1527846401156</updated>
+    </task>
+    <task id="LOCAL-00010">
+      <created>1527846740912</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1527846740912</updated>
+    </task>
+    <task id="LOCAL-00011">
+      <created>1528337190230</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1528337190230</updated>
+    </task>
+    <task id="LOCAL-00012">
+      <created>1528887765578</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1528887765578</updated>
+    </task>
+    <task id="LOCAL-00013">
+      <created>1528887803358</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1528887803358</updated>
+    </task>
+    <task id="LOCAL-00014">
+      <created>1528888595237</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1528888595237</updated>
+    </task>
+    <task id="LOCAL-00015">
+      <created>1528943175914</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1528943175914</updated>
+    </task>
+    <task id="LOCAL-00016">
+      <created>1528946311096</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1528946311096</updated>
+    </task>
+    <task id="LOCAL-00017">
+      <created>1528947003361</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1528947003361</updated>
+    </task>
+    <task id="LOCAL-00018">
+      <created>1528947099706</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1528947099706</updated>
+    </task>
+    <task id="LOCAL-00019">
+      <created>1528947956991</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1528947956991</updated>
+    </task>
+    <task id="LOCAL-00020">
+      <created>1528948642729</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1528948642729</updated>
+    </task>
+    <task id="LOCAL-00021">
+      <created>1528948810443</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1528948810443</updated>
+    </task>
+    <task id="LOCAL-00022">
+      <created>1528948861059</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1528948861059</updated>
+    </task>
+    <task id="LOCAL-00023">
+      <created>1528948956154</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1528948956154</updated>
+    </task>
+    <task id="LOCAL-00024">
+      <created>1528949008033</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1528949008033</updated>
+    </task>
+    <task id="LOCAL-00025">
+      <created>1528950194366</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1528950194366</updated>
+    </task>
+    <task id="LOCAL-00026">
+      <created>1528950242273</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1528950242273</updated>
+    </task>
+    <task id="LOCAL-00027">
+      <created>1528956317350</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1528956317350</updated>
+    </task>
+    <task id="LOCAL-00028">
+      <created>1528957058098</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1528957058098</updated>
+    </task>
+    <task id="LOCAL-00029">
+      <created>1528957086077</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1528957086077</updated>
+    </task>
+    <task id="LOCAL-00030">
+      <created>1528965351736</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1528965351736</updated>
+    </task>
+    <task id="LOCAL-00031">
+      <created>1528967240690</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1528967240690</updated>
+    </task>
+    <task id="LOCAL-00032">
+      <created>1529057902285</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1529057902285</updated>
+    </task>
+    <task id="LOCAL-00033">
+      <created>1529395713340</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1529395713340</updated>
+    </task>
+    <task id="LOCAL-00034">
+      <created>1529395967987</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1529395967987</updated>
+    </task>
+    <task id="LOCAL-00035">
+      <created>1529396867356</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1529396867356</updated>
+    </task>
+    <task id="LOCAL-00036">
+      <created>1529402571861</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1529402571861</updated>
+    </task>
+    <task id="LOCAL-00037">
+      <created>1529402854786</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1529402854786</updated>
+    </task>
+    <task id="LOCAL-00038">
+      <created>1532427649779</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1532427649779</updated>
+    </task>
+    <task id="LOCAL-00039">
+      <created>1533204114527</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1533204114527</updated>
+    </task>
+    <task id="LOCAL-00040">
+      <created>1534751569052</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1534751569052</updated>
+    </task>
+    <task id="LOCAL-00041">
+      <created>1534755172654</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1534755172654</updated>
+    </task>
+    <task id="LOCAL-00042">
+      <created>1534759954315</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1534759954315</updated>
+    </task>
+    <task id="LOCAL-00043" summary="接口自动化加入sql判断和自定义取期望值比较字段">
+      <created>1542109541071</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1542109541072</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_websocket1_py - 2019.07.13 at 18h 18m 42s.xml">
+      <configuration name="pytest in test_websocket1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_websocket1_py - 2019.07.13 at 18h 20m 06s.xml">
+      <configuration name="pytest in test_websocket1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_websocket1_py - 2019.07.13 at 18h 20m 48s.xml">
+      <configuration name="pytest in test_websocket1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_websocket1_py - 2019.07.13 at 18h 21m 26s.xml">
+      <configuration name="pytest in test_websocket1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_websocket1_py - 2019.07.13 at 18h 22m 23s.xml">
+      <configuration name="pytest in test_websocket1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_websocket1_py - 2019.07.13 at 18h 27m 48s.xml">
+      <configuration name="pytest in test_websocket1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_websocket1_py - 2019.07.13 at 18h 28m 46s.xml">
+      <configuration name="pytest in test_websocket1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_websocket1_py - 2019.07.13 at 18h 34m 18s.xml">
+      <configuration name="pytest in test_websocket1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_websocket1_py - 2019.07.13 at 18h 35m 44s.xml">
+      <configuration name="pytest in test_websocket1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_websocket1_py - 2019.07.15 at 10h 16m 58s.xml">
+      <configuration name="pytest in test_websocket1.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="199088000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+<<<<<<< .mine
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+||||||| .r123
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+=======
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+>>>>>>> .r177
+    <layout>
+<<<<<<< .mine
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26028278" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49092284" weight="0.3266129" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.61568123" weight="0.48118278" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4247312" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+||||||| .r123
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24108322" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24107143" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49092284" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.618003" visible="true" weight="0.42062193" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42543858" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+>>>>>>> .r177
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+<<<<<<< .mine
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="8" weight="0.32768363" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38431877" side_tool="true" weight="0.48924732" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.18951613" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32718122" />
+||||||| .r123
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38199696" side_tool="true" weight="0.36764705" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.618003" weight="0.24269006" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32718122" />
+=======
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="8" weight="0.32768363" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38199696" side_tool="true" weight="0.36764705" />
+>>>>>>> .r177
+<<<<<<< .mine
+||||||| .r123
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32843137" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.42543858" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" order="15" weight="0.3299435" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+=======
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32718122" />
+>>>>>>> .r177
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" order="15" weight="0.3299435" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+<<<<<<< .mine
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.32969153" />
+      <window_info anchor="right" id="Data View" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32969153" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2570694" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49092284" weight="0.3266129" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.61568123" visible="true" weight="0.48118278" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4247312" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="8" weight="0.32768363" />
+||||||| .r123
+      <window_info anchor="right" id="Data View" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49092284" weight="0.32843137" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="8" weight="0.32768363" />
+=======
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Data View" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="SciView" order="6" />
+>>>>>>> .r177
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38431877" side_tool="true" weight="0.48924732" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.18951613" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32718122" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" order="15" weight="0.3299435" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.32969153" />
+      <window_info anchor="right" id="Data View" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32969153" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="接口自动化加入sql判断和自定义取期望值比较字段" />
+    <option name="LAST_COMMIT_MESSAGE" value="接口自动化加入sql判断和自定义取期望值比较字段" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Page_Object/Android/AnswerCardPage.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCase/UI_Test/Web/test_login2.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/Log/2019-06-26-Log.Log">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/1test/2.py" />
+    <entry file="file://$PROJECT_DIR$/1test/1.py" />
+    <entry file="file://$PROJECT_DIR$/1test/duoxiancheng/1.py" />
+    <entry file="file://$PROJECT_DIR$/1test/duoxiancheng/duoxiancheng.py" />
+    <entry file="file://$PROJECT_DIR$/1test/duoxiancheng/run_main.py" />
+    <entry file="file://$PROJECT_DIR$/1test/duoxiancheng/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/1test/duoxiancheng/t1.py" />
+    <entry file="file://$PROJECT_DIR$/TestRunner/run_main_allure.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Common/conf.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="-5199" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/UI_Test/Android/test1_accountlogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="45" column="12" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="45" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+||||||| .r123
+        <state relative-caret-position="360">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+=======
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/requests/api.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/TestCase/UI_Test/Android/test1_smartExam.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Common/log.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="-507">
+          <caret line="74" column="29" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="29" />
+||||||| .r123
+        <state relative-caret-position="2325">
+          <caret line="171" column="29" selection-start-line="171" selection-start-column="29" selection-end-line="171" selection-end-column="29" />
+=======
+        <state>
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/testcase">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestRunner/run_main_allure1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/TestCase/UI_Test/Android/test_everydayExam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="146" column="8" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="8" />
+        </state>
+      </provider>
+=======
+    <entry file="file://$PROJECT_DIR$/Common/logs.py">
+      <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> .r177
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/TestCase/UI_Test/Android/test1_smartExam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="35" selection-start-line="35" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/TestCase/UI_Test/Android/businessProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1256" />
+      </provider>
+=======
+    <entry file="file://$PROJECT_DIR$/Common/move.py">
+      <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> .r177
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Common/conf.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Common/mysql.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="169">
+          <caret line="1082" selection-start-line="1082" selection-end-line="1082" />
+||||||| .r123
+        <state relative-caret-position="120">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+=======
+        <state>
+          <caret column="14" selection-start-column="7" selection-end-column="14" />
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://D:/Program Files/Python36/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="347" selection-start-line="347" selection-end-line="347" />
+        </state>
+      </provider>
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Atest/Test_pytest/run.py">
+      <provider selected="true" editor-type-id="text-editor" />
+=======
+    <entry file="file://$PROJECT_DIR$/Common/read_txt.py">
+      <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> .r177
+    </entry>
+<<<<<<< .mine
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambada/lam.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/_pytest/config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/pytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="101" column="30" selection-start-line="101" selection-start-column="28" selection-end-line="101" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestRunner/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestRunner/run_main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunners.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Atest/Test_pytest/test_weblogin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/testinterfere.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/test_all.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Common/read_xls.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state>
+          <caret selection-end-column="13" />
+||||||| .r123
+        <state relative-caret-position="192">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+=======
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/TestRunner/run_main_allure.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Atest/duoxiancheng/duoxiancheng.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Common/write_xls.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="160">
+          <caret line="35" column="47" lean-forward="true" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+||||||| .r123
+        <state relative-caret-position="336">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+=======
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://D:/Program Files/Python36/Lib/urllib/parse.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Common/createt_Testsuite.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Common/send_mail.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="117">
+          <caret line="790" column="4" selection-start-line="790" selection-start-column="4" selection-end-line="790" selection-end-column="4" />
+||||||| .r123
+        <state relative-caret-position="80">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+=======
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/AiVoice/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+          <folding>
+            <element signature="e#35#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/pypinyin/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AITEST/AiVoice/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Log/2019-06-29-Log.Log">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/TestCase/UI_Test/Web_pytest/test_login2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Program Files/python/Lib/site-packages/urllib3/connectionpool.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Common/regular.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="4672">
+          <caret line="292" selection-start-line="292" selection-end-line="292" />
+||||||| .r123
+        <state relative-caret-position="141">
+          <caret line="858" lean-forward="true" selection-start-line="858" selection-end-line="858" />
+=======
+        <state relative-caret-position="380">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/Common/1.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Common/list_dict.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Atest/r_yd_text.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="144">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#90#0" expanded="true" />
+          </folding>
+||||||| .r123
+        <state relative-caret-position="16">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="37" />
+=======
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/Common/2.py" />
+    <entry file="file://$PROJECT_DIR$/AITEST/Common/http_request.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Common/c_driver.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Atest/test1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atest/test2.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="-352">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+||||||| .r123
+        <state relative-caret-position="57">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+=======
+        <state relative-caret-position="152">
+          <caret line="9" column="7" selection-start-line="9" selection-end-line="9" selection-end-column="7" />
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/Common/conf.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Atest/__init__.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Atest/w_mysql.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="263">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+||||||| .r123
+        <state relative-caret-position="16">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+=======
+        <state>
+>>>>>>> .r177
+          <folding>
+<<<<<<< .mine
+            <element signature="e#0#19#0" expanded="true" />
+||||||| .r123
+            <element signature="e#0#18#0" expanded="true" />
+=======
+            <element signature="e#0#41#0" expanded="true" />
+>>>>>>> .r177
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/AiVoice/play_voice.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/TestCase/UI_Test/Web/test_login2.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Atest/duoxiancheng/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atest/duoxiancheng/duoxiancheng.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="96">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+||||||| .r123
+        <state relative-caret-position="41">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+=======
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/AiVoice/baiduAI.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Atest/duoxiancheng/run_main.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Atest/duoxiancheng/t1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atest/duoxiancheng/run_main.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="899">
+          <caret line="99" column="31" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="31" />
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+          </folding>
+||||||| .r123
+        <state relative-caret-position="219">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="36" />
+=======
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#14#36#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/Common/Interface_process.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Common/regular.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Atest/Test_pytest/conftest.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="224">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="13" />
+||||||| .r123
+        <state relative-caret-position="227">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+=======
+        <state relative-caret-position="38">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="11" />
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/Common/Interface_process2_undone.py">
+||||||| .r123
+    <entry file="file://D:/Program Files/python/Lib/site-packages/xlwt/Worksheet.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Atest/Test_pytest/test_weblogin.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="173">
+          <caret line="63" column="15" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+            <element signature="e#1629#1756#0" />
+            <element signature="e#2108#2231#0" />
+            <element signature="e#3097#3144#0" />
+          </folding>
+||||||| .r123
+        <state relative-caret-position="113">
+          <caret line="1087" selection-start-line="1087" selection-end-line="1087" />
+=======
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/Common/http_request1.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Common/write_xls.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Atest/Test_pytest/run.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="1328">
+          <caret line="85" column="26" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="26" />
+||||||| .r123
+        <state relative-caret-position="112">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+=======
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/testcase/runtest.py">
+||||||| .r123
+    <entry file="file://D:/Program Files/python/Lib/site-packages/pymysql/__init__.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Atest/Test_pytest/pt.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atest/login_little.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atest/pytest_mark.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambada/lam.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page_Object/Android/LoginPage.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="352">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+||||||| .r123
+        <state relative-caret-position="32">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+=======
+        <state>
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/Common/logs.py">
+||||||| .r123
+    <entry file="file://D:/Program Files/python/Lib/site-packages/pymysql/_socketio.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Page_Object/Android/MinePage.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="-208">
+          <caret line="17" column="102" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="102" />
+          <folding>
+            <element signature="e#29#52#0" expanded="true" />
+          </folding>
+        </state>
+||||||| .r123
+        <state relative-caret-position="-1743" />
+=======
+        <state>
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+>>>>>>> .r177
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/Common/log.py">
+||||||| .r123
+    <entry file="file://D:/Program Files/python/Lib/site-packages/pymysql/connections.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Page_Object/Android/Public.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="48">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+||||||| .r123
+        <state relative-caret-position="-3024" />
+=======
+        <state>
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+>>>>>>> .r177
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/Conf/web.conf">
+||||||| .r123
+    <entry file="file://D:/Program Files/python/Lib/site-packages/pymysql/converters.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Page_Object/Android/StudyMainPage.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+<<<<<<< .mine
+    <entry file="file://D:/Program Files/Python36/Lib/configparser.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/test_Login.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Page_Object/Android/SmartExercisePage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page_Object/Android/ResultPage.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="119">
+          <caret line="1137" selection-start-line="1137" selection-end-line="1137" />
+||||||| .r123
+        <state relative-caret-position="336">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+=======
+        <state>
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/Common/websocket.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AITEST/testcase/test_JJ.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Atest/test2.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Page_Object/Android/QuestionPage.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="112">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#1#91#0" expanded="true" />
+          </folding>
+||||||| .r123
+        <state relative-caret-position="144">
+          <caret line="9" column="7" selection-start-line="9" selection-end-line="9" selection-end-column="7" />
+=======
+        <state>
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/Common/Interface_process1.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Conf/interf_TestMode.conf">
+=======
+    <entry file="file://$PROJECT_DIR$/Page_Object/Web/testpage/bid_page.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="16">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+||||||| .r123
+        <state relative-caret-position="16">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+=======
+        <state>
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/testcase/test_pytestAI.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Conf/app_TestMode.conf">
+=======
+    <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/main.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="96">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#1#91#0" expanded="true" />
+          </folding>
+||||||| .r123
+        <state relative-caret-position="16">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+=======
+        <state>
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/Common/conf.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/test_mission.py">
+=======
+    <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/test_all.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="119">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+||||||| .r123
+        <state relative-caret-position="-368">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+=======
+        <state>
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/Conf/ws.conf">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/TestResult/Report/2018-11-21_TestReport.html">
+=======
+    <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/test_Login.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="320">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        </state>
+||||||| .r123
+        <state relative-caret-position="-336" />
+=======
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#29#66#0" expanded="true" />
+          </folding>
+        </state>
+>>>>>>> .r177
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/testcase/WS_Test/a.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Common/http_request.py">
+=======
+    <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/test_mission.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="109">
+          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+||||||| .r123
+        <state relative-caret-position="1424">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+=======
+        <state relative-caret-position="19">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/read_xls_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+||||||| .r123
+        <state relative-caret-position="-47">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+=======
+        <state relative-caret-position="19">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/Common/write_xls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/read_xls.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/new/t1.py">
+=======
+    <entry file="file://$PROJECT_DIR$/TestRunner/run_main_allure.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="-192">
+||||||| .r123
+        <state relative-caret-position="535">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+=======
+        <state>
+>>>>>>> .r177
+          <folding>
+<<<<<<< .mine
+            <element signature="e#0#11#0" expanded="true" />
+||||||| .r123
+            <element signature="e#29#66#0" expanded="true" />
+=======
+            <element signature="e#0#13#0" expanded="true" />
+>>>>>>> .r177
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/Common/write_xls.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Common/mysql.py">
+=======
+    <entry file="file://$PROJECT_DIR$/TestRunner/run_main_pytest.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state>
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="40" />
+||||||| .r123
+        <state relative-caret-position="64">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+=======
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/Conf/Project_path.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/Common/globalvar.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Page_Object/Android/AccountSetPage.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="240">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+||||||| .r123
+        <state relative-caret-position="96">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+=======
+        <state>
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+>>>>>>> .r177
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/test_Login.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/new/test_Login.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Page_Object/Android/AnswerCardPage.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="1248">
+          <caret line="86" column="45" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="45" />
+||||||| .r123
+        <state relative-caret-position="273">
+          <caret line="97" column="8" lean-forward="true" selection-start-line="97" selection-start-column="8" selection-end-line="98" selection-end-column="44" />
+=======
+        <state>
+>>>>>>> .r177
+          <folding>
+<<<<<<< .mine
+            <element signature="e#29#65#0" expanded="true" />
+||||||| .r123
+            <element signature="e#29#66#0" expanded="true" />
+=======
+            <element signature="e#0#57#0" expanded="true" />
+>>>>>>> .r177
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/Common/read_xls_news.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/new/test_mission_new.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Page_Object/Android/HomePage.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="576">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+||||||| .r123
+        <state relative-caret-position="80">
+          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+=======
+        <state relative-caret-position="228">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+>>>>>>> .r177
+          <folding>
+<<<<<<< .mine
+            <element signature="e#0#11#0" expanded="true" />
+||||||| .r123
+            <element signature="e#29#66#0" expanded="true" />
+=======
+            <element signature="e#0#57#0" expanded="true" />
+>>>>>>> .r177
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/Common/T_websocket.py">
+||||||| .r123
+    <entry file="file://$PROJECT_DIR$/TestCase/InterFere_Test/new/test_yewuliu.py">
+=======
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conf/Project_path.py">
+>>>>>>> .r177
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="272">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+||||||| .r123
+        <state relative-caret-position="263">
+          <caret line="36" column="69" lean-forward="true" selection-start-line="36" selection-start-column="69" selection-end-line="36" selection-end-column="69" />
+=======
+        <state relative-caret-position="38">
+          <caret line="2" column="59" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="59" />
+>>>>>>> .r177
+          <folding>
+<<<<<<< .mine
+            <element signature="e#0#26#0" expanded="true" />
+||||||| .r123
+            <element signature="e#0#37#0" expanded="true" />
+=======
+            <element signature="e#0#9#0" expanded="true" />
+>>>>>>> .r177
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/AITEST/testcase/WS_Test/test_websocket1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+||||||| .r123
+=======
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conf/package/install_package.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/PC_cmd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conf/env_config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conf/http.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conf/package/package.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> .r177
+  </component>
+</project>

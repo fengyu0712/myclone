@@ -1,0 +1,7 @@
+{
+  "a.py::test_run[tdata0]": true,
+  "b.py::test_1[1-1-1]": true,
+  "c.py::TestLogin::test_run": true,
+  "test_Login1.py::TestLogin::test_run": true,
+  "test_c.py::TestLogin::test_run": true
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "AC",
+    "children" : [ {
+      "name" : "name1 登录成功",
+      "children" : [ {
+        "name" : "test_allure[name1-123456-name1 登录成功]",
+        "uid" : "c77dabc04aef9be0",
+        "parentUid" : "6a8ab5625c9223783876ac8394499147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605238175846,
+          "stop" : 1605238175852,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ "'123456'", "'name1 登录成功'", "'name1'" ]
+      }, {
+        "name" : "test_allure[name3-123456-name1 登录成功]",
+        "uid" : "c787a9169256a4cd",
+        "parentUid" : "6a8ab5625c9223783876ac8394499147",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605238175887,
+          "stop" : 1605238175891,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ "'123456'", "'name1 登录成功'", "'name3'" ]
+      } ],
+      "uid" : "6a8ab5625c9223783876ac8394499147"
+    }, {
+      "name" : "name2 登录失败",
+      "children" : [ {
+        "name" : "test_allure[name2-123456-name2 登录失败]",
+        "uid" : "31bb65d2bfc0f8f3",
+        "parentUid" : "e3919d28ba298f1ef0c74cd098148575",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605238175868,
+          "stop" : 1605238175872,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ "'123456'", "'name2 登录失败'", "'name2'" ]
+      } ],
+      "uid" : "e3919d28ba298f1ef0c74cd098148575"
+    } ],
+    "uid" : "3075552b0a60e30800c57939601a1acc"
+  } ]
+}

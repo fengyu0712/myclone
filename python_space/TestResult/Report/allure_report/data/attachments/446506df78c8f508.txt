@@ -1,0 +1,4 @@
+[2019-10-22 20:04:07,934] - test_yewuliu.py [Line:20] - [INFO]-[thread:25148]-[process:24616] - TestT测试开始:
+[2019-10-22 20:04:07,937] - http_request.py [Line:13] - [INFO]-[thread:25148]-[process:24616] - 正在进行【GET】请求
+[2019-10-22 20:04:08,540] - http_request.py [Line:22] - [INFO]-[thread:25148]-[process:24616] - 请求完成【status:200】
+[2019-10-22 20:04:08,540] - test_yewuliu.py [Line:39] - [INFO]-[thread:25148]-[process:24616] - test_login测试通过

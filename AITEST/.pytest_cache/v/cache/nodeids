@@ -1,0 +1,18 @@
+[
+  "demo/allureDemo.py::TestLogin::test_allure[name1-123456-name1 \\u767b\\u5f55\\u6210\\u529f]",
+  "demo/allureDemo.py::TestLogin::test_allure[name2-123456-name2 \\u767b\\u5f55\\u5931\\u8d25]",
+  "demo/allureDemo.py::TestLogin::test_allure[name3-123456-name1 \\u767b\\u5f55\\u6210\\u529f]",
+  "demo/allureDemo.py::test_allure[name1-123456-name1 \\u767b\\u5f55\\u6210\\u529f]",
+  "demo/allureDemo.py::test_allure[name2-123456-name2 \\u767b\\u5f55\\u5931\\u8d25]",
+  "demo/allureDemo.py::test_allure[name3-123456-name1 \\u767b\\u5f55\\u6210\\u529f]",
+  "demo/allureDemo.py::test_allure[name3-123456-name3 \\u767b\\u5f55\\u6210\\u529f]",
+  "demo/allureDemo.py::test_login[name1-123456-name1 \\u767b\\u5f55\\u6210\\u529f]",
+  "demo/allureDemo.py::test_login[name2-123456-name2 \\u767b\\u5f55\\u5931\\u8d25]",
+  "demo/allureDemo.py::test_login[name3-123456-name1 \\u767b\\u5f55\\u6210\\u529f]",
+  "demo/allureDemo.py::test_with_nested_steps",
+  "testcase/WS_Test/test_websocket1.py::TestWebsocket2::test_run[data0]",
+  "testcase/WS_Test/test_websocket1.py::TestWebsocket2::test_run[data1]",
+  "testcase/WS_Test/test_websocket1.py::TestWebsocket2::test_run[data2]",
+  "testcase/WS_Test/test_websocket1.py::TestWebsocket2::test_run[data3]",
+  "testcase/WS_Test/test_websocket1.py::TestWebsocket2::test_run[data4]"
+]

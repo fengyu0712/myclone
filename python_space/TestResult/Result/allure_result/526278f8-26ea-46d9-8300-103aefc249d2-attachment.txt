@@ -1,0 +1,1 @@
+/api/user/mission/list {'uid': 441456} get

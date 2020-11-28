@@ -1,0 +1,4 @@
+[2019-10-22 19:41:21,388] - http_request.py [Line:13] - [INFO]-[thread:16324]-[process:6272] - 正在进行【GET】请求
+[2019-10-22 19:41:21,471] - http_request.py [Line:22] - [INFO]-[thread:16324]-[process:6272] - 请求完成【status:200】
+[2019-10-22 19:41:21,471] - test_Login.py [Line:91] - [INFO]-[thread:16324]-[process:6272] - 第5条用例[密码为空]测试通过
+[2019-10-22 19:41:21,472] - test_Login.py [Line:59] - [INFO]-[thread:16324]-[process:6272] - TestLogin测试结束!

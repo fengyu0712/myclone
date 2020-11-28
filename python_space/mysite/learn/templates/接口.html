@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Parker接口测试</title>
+</head>
+<body>
+    <h3 style="...">接口测试</h3>
+    <form action="/接口/" method="post">
+        <table>
+            <tr>
+            <td>接口地址：</td>
+            <td>
+                <input type="text" name="url" /> <br/>
+            </td>
+            </tr>
+            <tr>
+            <td>选择方法:</td>
+            <td>
+                <input type="radio" name="fun" value="post" checked/>POST
+                <input type="radio" name="fun" value="get" />GET
+            </td>
+            </tr>
+            <tr>
+            <td>参数类型：</td>
+            <td>
+                <select name="leixin">
+                    <option value="json">Json</option>
+                    <option value="xml">XML</option>
+                    <option value="date">Data</option>
+                </select>
+            </td>
+            </tr>
+            <tr>
+            <td>测试数据:</td>
+            <td>
+                <textarea name="testdate" style="with:200px;height:60px;"></textarea>
+            </td>
+            </tr>
+            <tr>
+            <td>预期结果：</td>
+            <td>
+                <input type="text" name="exr" /> <br/>
+            </td>
+            </tr>
+            <tr>
+            <td>实际结果：</td>
+            <td>
+                <label>{{ data1 }}</label><br/>
+            </td>
+            </tr>
+            <tr>
+            <td>测试结果：</td>
+            <td>
+                <label>{{ data }}</label><br/>
+            </td>
+            </tr>
+            <tr>
+            <td>
+                <input type="submit" value="执行测试" />
+            </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

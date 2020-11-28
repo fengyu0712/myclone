@@ -1,0 +1,141 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "登录功能接口",
+    "children" : [ {
+      "name" : "登录功能接口",
+      "children" : [ {
+        "name" : "test_run_1__1__1__1___正常登陆_____api_user_signin____get____code___1___select_expectation_from_test_test_data_where_id_1___13017600000___all___81__123456__2_",
+        "uid" : "f7577fcb5a2096a6",
+        "parentUid" : "e26de006009ca36d5e6f304d61c31e7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745846657,
+          "stop" : 1571745847318,
+          "duration" : 661
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_run_2__2__2__0___手机号非法_____api_user_signin____get____code___0__30004___130000000000____all___80__123456__2_",
+        "uid" : "8a95f413895fba0a",
+        "parentUid" : "e26de006009ca36d5e6f304d61c31e7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745847324,
+          "stop" : 1571745847352,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_run_3__3__3__0___手机号为空_____api_user_signin____get____code___0__30001_______all___80__123456__2_",
+        "uid" : "4ca6dbd012fd9997",
+        "parentUid" : "e26de006009ca36d5e6f304d61c31e7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745847359,
+          "stop" : 1571745847380,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_run_4__4__4__0___密码非法_____api_user_signin____get____code___0__30003___13000000000____all___80__2345678__2_",
+        "uid" : "874f4f5e5342bbc5",
+        "parentUid" : "e26de006009ca36d5e6f304d61c31e7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745847386,
+          "stop" : 1571745847801,
+          "duration" : 415
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_run_5__5__5__0___密码为空_____api_user_signin____get____code___0__30001___13000000000____all___80______2_",
+        "uid" : "3782b5bde7befaaa",
+        "parentUid" : "e26de006009ca36d5e6f304d61c31e7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745847807,
+          "stop" : 1571745847829,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e26de006009ca36d5e6f304d61c31e7e"
+    } ],
+    "uid" : "f557345c1fc5e70e8a107b2a2631020e"
+  }, {
+    "name" : "任务列表接口",
+    "children" : [ {
+      "name" : "登录",
+      "children" : [ {
+        "name" : "test_run_1__1__1__1___正常查看_____api_user_mission_list____get____code___0__1__441456_",
+        "uid" : "8a6c237298720805",
+        "parentUid" : "7a44e8ed3546badc669626e3da59c5a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745847842,
+          "stop" : 1571745847891,
+          "duration" : 49
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_run_2__2__2__0___uid为空_____api_user_mission_list____get____code___0__30007_____",
+        "uid" : "b595303a95eea7a2",
+        "parentUid" : "7a44e8ed3546badc669626e3da59c5a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745847899,
+          "stop" : 1571745847922,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a44e8ed3546badc669626e3da59c5a2"
+    } ],
+    "uid" : "6bb20b3e006186a0d87a3673d62bf73f"
+  }, {
+    "name" : "登录=》任务列表",
+    "children" : [ {
+      "name" : "请求登录接口",
+      "children" : [ {
+        "name" : "test_login",
+        "uid" : "22968c22fc68014b",
+        "parentUid" : "76f87f5089989717c672175bae567e86",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745847936,
+          "stop" : 1571745848541,
+          "duration" : 605
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "76f87f5089989717c672175bae567e86"
+    }, {
+      "name" : "请求任务列表接口",
+      "children" : [ {
+        "name" : "test_mission",
+        "uid" : "79fd91a5c0059e39",
+        "parentUid" : "408115051a0beb69299b2f82697a3b93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745848546,
+          "stop" : 1571745848596,
+          "duration" : 50
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "408115051a0beb69299b2f82697a3b93"
+    } ],
+    "uid" : "f8a8a1f07d7a4b5f51ab29b70e017ea2"
+  } ]
+}

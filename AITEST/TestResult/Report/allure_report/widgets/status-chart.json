@@ -1,0 +1,31 @@
+[ {
+  "uid" : "c787a9169256a4cd",
+  "name" : "test_allure[name3-123456-name1 登录成功]",
+  "time" : {
+    "start" : 1605238175887,
+    "stop" : 1605238175891,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c77dabc04aef9be0",
+  "name" : "test_allure[name1-123456-name1 登录成功]",
+  "time" : {
+    "start" : 1605238175846,
+    "stop" : 1605238175852,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31bb65d2bfc0f8f3",
+  "name" : "test_allure[name2-123456-name2 登录失败]",
+  "time" : {
+    "start" : 1605238175868,
+    "stop" : 1605238175872,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,129 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestCase.InterFere_Test.new",
+    "children" : [ {
+      "name" : "test_Login",
+      "children" : [ {
+        "name" : "test_run_1__1__1__1___正常登陆_____api_user_signin____get____code___1___select_expectation_from_test_test_data_where_id_1___13017600000___all___81__123456__2_",
+        "uid" : "f7577fcb5a2096a6",
+        "parentUid" : "1ae01dbab648d68bde92e786e16191fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745846657,
+          "stop" : 1571745847318,
+          "duration" : 661
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_run_2__2__2__0___手机号非法_____api_user_signin____get____code___0__30004___130000000000____all___80__123456__2_",
+        "uid" : "8a95f413895fba0a",
+        "parentUid" : "1ae01dbab648d68bde92e786e16191fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745847324,
+          "stop" : 1571745847352,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_run_3__3__3__0___手机号为空_____api_user_signin____get____code___0__30001_______all___80__123456__2_",
+        "uid" : "4ca6dbd012fd9997",
+        "parentUid" : "1ae01dbab648d68bde92e786e16191fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745847359,
+          "stop" : 1571745847380,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_run_4__4__4__0___密码非法_____api_user_signin____get____code___0__30003___13000000000____all___80__2345678__2_",
+        "uid" : "874f4f5e5342bbc5",
+        "parentUid" : "1ae01dbab648d68bde92e786e16191fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745847386,
+          "stop" : 1571745847801,
+          "duration" : 415
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_run_5__5__5__0___密码为空_____api_user_signin____get____code___0__30001___13000000000____all___80______2_",
+        "uid" : "3782b5bde7befaaa",
+        "parentUid" : "1ae01dbab648d68bde92e786e16191fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745847807,
+          "stop" : 1571745847829,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1ae01dbab648d68bde92e786e16191fb"
+    }, {
+      "name" : "test_mission_new",
+      "children" : [ {
+        "name" : "test_run_1__1__1__1___正常查看_____api_user_mission_list____get____code___0__1__441456_",
+        "uid" : "8a6c237298720805",
+        "parentUid" : "717b6fcbb2f6043d142d02c1ec9c0118",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745847842,
+          "stop" : 1571745847891,
+          "duration" : 49
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_run_2__2__2__0___uid为空_____api_user_mission_list____get____code___0__30007_____",
+        "uid" : "b595303a95eea7a2",
+        "parentUid" : "717b6fcbb2f6043d142d02c1ec9c0118",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745847899,
+          "stop" : 1571745847922,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "717b6fcbb2f6043d142d02c1ec9c0118"
+    }, {
+      "name" : "test_yewuliu",
+      "children" : [ {
+        "name" : "test_login",
+        "uid" : "22968c22fc68014b",
+        "parentUid" : "1f7776ace61d18a1470946fb0fa5d4b8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745847936,
+          "stop" : 1571745848541,
+          "duration" : 605
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mission",
+        "uid" : "79fd91a5c0059e39",
+        "parentUid" : "1f7776ace61d18a1470946fb0fa5d4b8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571745848546,
+          "stop" : 1571745848596,
+          "duration" : 50
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1f7776ace61d18a1470946fb0fa5d4b8"
+    } ],
+    "uid" : "TestCase.InterFere_Test.new"
+  } ]
+}

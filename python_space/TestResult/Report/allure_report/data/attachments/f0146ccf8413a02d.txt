@@ -1,0 +1,4 @@
+[2019-10-22 19:41:21,636] - test_yewuliu.py [Line:20] - [INFO]-[thread:16324]-[process:6272] - TestT测试开始:
+[2019-10-22 19:41:21,639] - http_request.py [Line:13] - [INFO]-[thread:16324]-[process:6272] - 正在进行【GET】请求
+[2019-10-22 19:41:22,273] - http_request.py [Line:22] - [INFO]-[thread:16324]-[process:6272] - 请求完成【status:200】
+[2019-10-22 19:41:22,273] - test_yewuliu.py [Line:39] - [INFO]-[thread:16324]-[process:6272] - test_login测试通过

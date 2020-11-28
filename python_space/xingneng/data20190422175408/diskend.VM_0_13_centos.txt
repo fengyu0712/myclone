@@ -1,0 +1,2 @@
+Avail,Use%,Mounted
+41G,15%,/

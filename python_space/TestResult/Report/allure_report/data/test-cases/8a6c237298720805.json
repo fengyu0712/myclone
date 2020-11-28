@@ -1,0 +1,121 @@
+{
+  "uid" : "8a6c237298720805",
+  "name" : "test_run_1__1__1__1___正常查看_____api_user_mission_list____get____code___0__1__441456_",
+  "fullName" : "TestCase.InterFere_Test.new.test_mission_new.TestLogin#test_run_1__1__1__1___正常查看_____api_user_mission_list____get____code___0__1__441456_",
+  "historyId" : "cac1f46c76b26b2dbfaef43bcdda9687",
+  "time" : {
+    "start" : 1571745847842,
+    "stop" : 1571745847891,
+    "duration" : 49
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1571745847838,
+      "stop" : 1571745847841,
+      "duration" : 3
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "da98b38647efe1af",
+      "name" : "stdout",
+      "source" : "da98b38647efe1af.txt",
+      "type" : "text/plain",
+      "size" : 43
+    }, {
+      "uid" : "a2f717f081605d4d",
+      "name" : "stderr",
+      "source" : "a2f717f081605d4d.txt",
+      "type" : "text/plain",
+      "size" : 512
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1571745847922,
+      "stop" : 1571745847923,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "登录"
+  }, {
+    "name" : "feature",
+    "value" : "任务列表接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase.InterFere_Test.new"
+  }, {
+    "name" : "suite",
+    "value" : "test_mission_new"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "EX_LIUHJ562"
+  }, {
+    "name" : "thread",
+    "value" : "24616-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.InterFere_Test.new.test_mission_new"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "78e18717bee710f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571744481488,
+        "stop" : 1571744481559,
+        "duration" : 71
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a6c237298720805.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,3 @@
+[2019-10-22 20:04:07,360] - http_request.py [Line:13] - [INFO]-[thread:25148]-[process:24616] - 正在进行【GET】请求
+[2019-10-22 20:04:07,379] - http_request.py [Line:22] - [INFO]-[thread:25148]-[process:24616] - 请求完成【status:200】
+[2019-10-22 20:04:07,379] - test_Login.py [Line:91] - [INFO]-[thread:25148]-[process:24616] - 第3条用例[手机号为空]测试通过
