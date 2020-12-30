@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ddce8217-2360-477c-b407-c53dcf7482f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AITEST/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/attachments/14d4c43cb0781f4f.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/attachments/355bab9b89362e4.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/attachments/489af0b938e0c85e.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/attachments/4cc2ca9ab5374fa1.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/attachments/75e9af16a1f74619.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/attachments/bed13c3a0c5ff079.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/attachments/bf6e0be3fea59a5f.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/attachments/c770948b2d2cda6b.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/attachments/d445bb3dc09754f.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/categories.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/suites.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/test-cases/13a1a65ebdadce68.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/test-cases/14ea2ef4b9ed90b3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/test-cases/31bb65d2bfc0f8f3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/test-cases/6e5ea120f04b0e87.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/test-cases/a60c41676b99a698.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/test-cases/c77dabc04aef9be0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/test-cases/c787a9169256a4cd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/test-cases/f054d393a3ce1b5b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/test-cases/f9ed6d23639e6204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/data/timeline.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/export/influxDbData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/export/prometheusData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/history/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/history/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/history/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/history/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/history/history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/history/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/duration.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/duration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/severity.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/severity.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/status-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/status-chart.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/TestResult/Report/allure_report/widgets/summary.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/common/traversing_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/common/traversing_path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/demo/allureDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/demo/demo_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/demo/demo_run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/demo/redis/RedisLock.py" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/demo/redis/RedisLock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/demo/runallure.py" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/demo/runallure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/testcase/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITEST/testcase/simDevices.py" beforeDir="false" afterPath="$PROJECT_DIR$/AITEST/testcase/simDevices.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mMqMm0rvpwhMEsfUpg5kGcN1x6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AITEST" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddce8217-2360-477c-b407-c53dcf7482f3" name="Default Changelist" comment="" />
+      <created>1609313762174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609313762174</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1609313786190">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1609313786190" />
+  </component>
+</project>

@@ -14,7 +14,7 @@ device_list=eval(Conf(db_path).get_value("Redis", "redis_db"))
 
 # test_path = rootPath+"\\testcase\\WS_Test\\"
 # test_path="E:\AITEST\\testcase\TestAiYun"
-test_path= "/demo/allureDemo.py"
+test_path= "/demo/test_allureDemo.py"
 
 # test_path="E:\AITEST\\testcase\TestAiYun\\redis_case\\test_StrideAcRredis02.py"
 now = time.strftime("%Y-%m-%d %H_%M_%S", time.localtime())

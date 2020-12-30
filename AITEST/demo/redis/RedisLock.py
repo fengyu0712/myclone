@@ -57,12 +57,12 @@ def increase_data(redis_conn, lock, key,value):
     lock.del_lock(key, lock_value) #释放锁
 
 
-
-redis_conn= redis.Redis(host='111.231.233.115', port=6379, password="071211", db=1)
-lock=RedisLock(redis_conn)
-a=10
-# while a>0:
-#     a=a-redis_case
-#     increase_data(redis_conn,lock,"myKey%s"%a)
-m=redis_conn.get('myKey2')
-print(m)
+if __name__ == '__main__':
+    redis_conn= redis.Redis(host='111.231.233.115', port=6379, password="", db=1)
+    lock=RedisLock(redis_conn)
+    a=10
+    # while a>0:
+    #     a=a-redis_case
+    #     increase_data(redis_conn,lock,"myKey%s"%a)
+    m=redis_conn.get('myKey2')
+    print(m)

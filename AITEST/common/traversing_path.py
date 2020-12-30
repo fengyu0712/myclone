@@ -40,6 +40,6 @@ if __name__=="__main__":
     #
     # a=file_all_path(case_path)
     # print(a)
-    a="E:\log\\20200731"
+    a=r"E:\AITEST\Log\20201208"
     b=file_all_path(a,file_type="log")
     print(b)

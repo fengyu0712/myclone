@@ -1,15 +1,15 @@
 import websocket
 import time
 import json
+import uuid
 from websocket import ABNF
 from common.log import Logger
 from common.conf import Conf
 import Project_path
 # import ssl
-import uuid
 import os
 
-# import threading
+
 
 # ssl._create_default_https_context = ssl._create_unverified_context
 conf_path = Project_path.conf_path
@@ -26,7 +26,7 @@ conf_path = Project_path.conf_path
 # deviceID="3298544982176"
 # category="AC"
 
-sn = "000008311000VA02209150000132G5JK"
+sn = "000008311000VA022091500000289FGR"
 clientId = "test002"
 deviceID="160528699142378"
 category="8"
@@ -240,7 +240,7 @@ class SimDevices:
             }
         }
 
-        self.ws.send(json.dumps(content_328_fullDuplex), ABNF.OPCODE_TEXT)
+        self.ws.send(json.dumps(content_328), ABNF.OPCODE_TEXT)
         with open(wavfile, 'rb') as f:
             while True:
                 data = f.read(3200)
@@ -298,9 +298,10 @@ class SimDevices:
 
 if __name__ == "__main__":
     url = Conf(conf_path + "/ws.ini").get_value("SIT", "url")
-    wavfail = "F:\\python\\AITEST\\testdata\\test_audio\\201M24_01_41_0001.wav"
-    wavfail2 = "F:\\python\\AITEST\\testdata\\test_audio\\237M32_08_41_0160.wav"
-    wavfail3 = "F:\\python\\AITEST\\testdata\\test_audio\\佛山的天气如何.wav"
+    print(url)
+    wavfail =Project_path.TestData_path+"test_audio\\201M24_01_41_0001.wav"
+    wavfail2 =Project_path.TestData_path+"test_audio\\237M32_08_41_0160.wav"
+    wavfail3 =Project_path.TestData_path+"test_audio\\佛山的天气如何.wav"
     ws = SimDevices(url)
     a = ws.on_line()
     print(a)
