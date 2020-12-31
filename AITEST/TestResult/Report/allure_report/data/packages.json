@@ -1,0 +1,101 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcase.TestAiyunNew",
+    "children" : [ {
+      "name" : "test_demo",
+      "children" : [ {
+        "name" : "test_allure[case2-F:\\git\\myclone\\AITEST\\testdata\\test_audio\\237M32_08_41_0160.wav-打开卧室空调s]",
+        "uid" : "e614ee666ea9c72a",
+        "parentUid" : "46aff8996689118b72e22da9313a9e03",
+        "status" : "failed",
+        "time" : {
+          "start" : 1609376687969,
+          "stop" : 1609376692112,
+          "duration" : 4143
+        },
+        "flaky" : false,
+        "parameters" : [ "'打开卧室空调s'", "'case2'", "'F:\\git\\myclone\\AITEST\\testdata\\test_audio\\237M32_08_41_0160.wav'" ]
+      }, {
+        "name" : "test_allure[case1-F:\\git\\myclone\\AITEST\\testdata\\test_audio\\201M24_01_41_0001.wav-打开卧室空调]",
+        "uid" : "e5238af95d1c36d3",
+        "parentUid" : "46aff8996689118b72e22da9313a9e03",
+        "status" : "failed",
+        "time" : {
+          "start" : 1609376806758,
+          "stop" : 1609376810739,
+          "duration" : 3981
+        },
+        "flaky" : true,
+        "parameters" : [ "'打开卧室空调'", "'case1'", "'F:\\git\\myclone\\AITEST\\testdata\\test_audio\\201M24_01_41_0001.wav'" ]
+      }, {
+        "name" : "test_allure[case2-F:\\git\\myclone\\AITEST\\testdata\\test_audio\\237M32_08_41_0160.wav-打开卧室空调]",
+        "uid" : "fe7b22ca3f5a7b7c",
+        "parentUid" : "46aff8996689118b72e22da9313a9e03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609376811558,
+          "stop" : 1609376815779,
+          "duration" : 4221
+        },
+        "flaky" : false,
+        "parameters" : [ "'打开卧室空调'", "'case2'", "'F:\\git\\myclone\\AITEST\\testdata\\test_audio\\237M32_08_41_0160.wav'" ]
+      }, {
+        "name" : "test_allure[case3-F:\\git\\myclone\\AITEST\\testdata\\test_audio\\佛山的天气如何.wav-佛山的天气如何]",
+        "uid" : "e65e861b5d4aa917",
+        "parentUid" : "46aff8996689118b72e22da9313a9e03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609376815962,
+          "stop" : 1609376818228,
+          "duration" : 2266
+        },
+        "flaky" : false,
+        "parameters" : [ "'佛山的天气如何'", "'case3'", "'F:\\git\\myclone\\AITEST\\testdata\\test_audio\\佛山的天气如何.wav'" ]
+      } ],
+      "uid" : "46aff8996689118b72e22da9313a9e03"
+    }, {
+      "name" : "test_allureDemo",
+      "children" : [ {
+        "name" : "test_allure[name1-123456-name1 登录成功]",
+        "uid" : "da19697ff5e47f0a",
+        "parentUid" : "0efbce233503ba5ee0d73ed2beded7f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609376806532,
+          "stop" : 1609376806541,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "parameters" : [ "'123456'", "'name1 登录成功'", "'name1'" ]
+      }, {
+        "name" : "test_allure[name2-123456-name2 登录失败]",
+        "uid" : "d1c158c7046441b7",
+        "parentUid" : "0efbce233503ba5ee0d73ed2beded7f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609376806558,
+          "stop" : 1609376806561,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ "'123456'", "'name2 登录失败'", "'name2'" ]
+      }, {
+        "name" : "test_allure[name3-123456-name1 登录成功]",
+        "uid" : "533e2b110001c76e",
+        "parentUid" : "0efbce233503ba5ee0d73ed2beded7f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609376806577,
+          "stop" : 1609376806579,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ "'123456'", "'name1 登录成功'", "'name3'" ]
+      } ],
+      "uid" : "0efbce233503ba5ee0d73ed2beded7f4"
+    } ],
+    "uid" : "testcase.TestAiyunNew"
+  } ]
+}

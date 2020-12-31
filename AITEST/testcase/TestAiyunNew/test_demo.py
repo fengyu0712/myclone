@@ -16,7 +16,7 @@ wavfail3 = Project_path.TestData_path + "test_audio\\佛山的天气如何.wav"
 
 data = [
     ("case1", wavfail1, "打开卧室空调"),
-    ("case2", wavfail2, "打开卧室空调s"),
+    ("case2", wavfail2, "打开卧室空调"),
     ("case3", wavfail3, "佛山的天气如何")
 ]
 

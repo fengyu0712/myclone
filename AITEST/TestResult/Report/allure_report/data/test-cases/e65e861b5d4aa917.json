@@ -1,0 +1,145 @@
+{
+  "uid" : "e65e861b5d4aa917",
+  "name" : "test_allure[case3-F:\\git\\myclone\\AITEST\\testdata\\test_audio\\佛山的天气如何.wav-佛山的天气如何]",
+  "fullName" : "testcase.TestAiyunNew.test_demo.TestDemo#test_allure",
+  "historyId" : "3669ba02a84a5e8b5f965b34b238c6fd",
+  "time" : {
+    "start" : 1609376815962,
+    "stop" : 1609376818228,
+    "duration" : 2266
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "host",
+    "time" : {
+      "start" : 1609376806530,
+      "stop" : 1609376806530,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "设备上线",
+      "time" : {
+        "start" : 1609376815962,
+        "stop" : 1609376816048,
+        "duration" : 86
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "发送音频",
+      "time" : {
+        "start" : 1609376816048,
+        "stop" : 1609376818225,
+        "duration" : 2177
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "casenum",
+        "value" : "'case3'"
+      }, {
+        "name" : "wavfail",
+        "value" : "'F:\\git\\myclone\\AITEST\\testdata\\test_audio\\佛山的天气如何.wav'"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "ec3cefbb10736620",
+      "name" : "log",
+      "source" : "ec3cefbb10736620.attach",
+      "type" : "text/plain",
+      "size" : 129
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "case3"
+  }, {
+    "name" : "feature",
+    "value" : "1C"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.TestAiyunNew"
+  }, {
+    "name" : "suite",
+    "value" : "test_demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDemo"
+  }, {
+    "name" : "host",
+    "value" : "lijq36721"
+  }, {
+    "name" : "thread",
+    "value" : "16040-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.TestAiyunNew.test_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "asr",
+    "value" : "'佛山的天气如何'"
+  }, {
+    "name" : "casenum",
+    "value" : "'case3'"
+  }, {
+    "name" : "wavfail",
+    "value" : "'F:\\git\\myclone\\AITEST\\testdata\\test_audio\\佛山的天气如何.wav'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9b9b8082a79e3b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609376692236,
+        "stop" : 1609376694512,
+        "duration" : 2276
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e65e861b5d4aa917.json",
+  "parameterValues" : [ "'佛山的天气如何'", "'case3'", "'F:\\git\\myclone\\AITEST\\testdata\\test_audio\\佛山的天气如何.wav'" ]
+}

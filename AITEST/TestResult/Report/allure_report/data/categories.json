@@ -1,0 +1,41 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert '打开卧室空调' == '打开卧室空调s'\n  - 打开卧室空调s\n  ?       -\n  + 打开卧室空调",
+      "children" : [ {
+        "name" : "test_allure[case2-F:\\git\\myclone\\AITEST\\testdata\\test_audio\\237M32_08_41_0160.wav-打开卧室空调s]",
+        "uid" : "e614ee666ea9c72a",
+        "parentUid" : "31400961f1fec84b6779ad3e19c5cd13",
+        "status" : "failed",
+        "time" : {
+          "start" : 1609376687969,
+          "stop" : 1609376692112,
+          "duration" : 4143
+        },
+        "flaky" : false,
+        "parameters" : [ "'打开卧室空调s'", "'case2'", "'F:\\git\\myclone\\AITEST\\testdata\\test_audio\\237M32_08_41_0160.wav'" ]
+      } ],
+      "uid" : "31400961f1fec84b6779ad3e19c5cd13"
+    }, {
+      "name" : "AssertionError: assert '空调开机' == '打开卧室空调'\n  - 打开卧室空调\n  + 空调开机",
+      "children" : [ {
+        "name" : "test_allure[case1-F:\\git\\myclone\\AITEST\\testdata\\test_audio\\201M24_01_41_0001.wav-打开卧室空调]",
+        "uid" : "e5238af95d1c36d3",
+        "parentUid" : "d00ec7f977ca86f3d842cbc7b96966d5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1609376806758,
+          "stop" : 1609376810739,
+          "duration" : 3981
+        },
+        "flaky" : true,
+        "parameters" : [ "'打开卧室空调'", "'case1'", "'F:\\git\\myclone\\AITEST\\testdata\\test_audio\\201M24_01_41_0001.wav'" ]
+      } ],
+      "uid" : "d00ec7f977ca86f3d842cbc7b96966d5"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

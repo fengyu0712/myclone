@@ -1,0 +1,8 @@
+"Status","Name","Duration in ms","Description"
+"passed","testcase.TestAiyunNew.test_allureDemo.TestLogin#test_allure","9",""
+"failed","testcase.TestAiyunNew.test_demo.TestDemo#test_allure","3981",""
+"failed","testcase.TestAiyunNew.test_demo.TestDemo#test_allure","4143",""
+"passed","testcase.TestAiyunNew.test_demo.TestDemo#test_allure","2266",""
+"passed","testcase.TestAiyunNew.test_demo.TestDemo#test_allure","4221",""
+"passed","testcase.TestAiyunNew.test_allureDemo.TestLogin#test_allure","2",""
+"passed","testcase.TestAiyunNew.test_allureDemo.TestLogin#test_allure","3",""

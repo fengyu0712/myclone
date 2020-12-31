@@ -1,0 +1,137 @@
+{
+  "3669ba02a84a5e8b5f965b34b238c6fd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e65e861b5d4aa917",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609376815962,
+        "stop" : 1609376818228,
+        "duration" : 2266
+      }
+    } ]
+  },
+  "3ce552aa899ed883d411157f0f73a830" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe7b22ca3f5a7b7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609376811558,
+        "stop" : 1609376815779,
+        "duration" : 4221
+      }
+    } ]
+  },
+  "44b8f12d98bbff94caf1ff25ed2e82d4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d1c158c7046441b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609376806558,
+        "stop" : 1609376806561,
+        "duration" : 3
+      }
+    } ]
+  },
+  "8be5ad031618899dff4e747076841755" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e5238af95d1c36d3",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '空调开机' == '打开卧室空调'\n  - 打开卧室空调\n  + 空调开机",
+      "time" : {
+        "start" : 1609376806758,
+        "stop" : 1609376810739,
+        "duration" : 3981
+      }
+    } ]
+  },
+  "9505d12bb6dec3516795cdab69dcb334" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "da19697ff5e47f0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609376806532,
+        "stop" : 1609376806541,
+        "duration" : 9
+      }
+    } ]
+  },
+  "d16460d2bc369f0cf4ec73a70b78f3fc" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e614ee666ea9c72a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '打开卧室空调' == '打开卧室空调s'\n  - 打开卧室空调s\n  ?       -\n  + 打开卧室空调",
+      "time" : {
+        "start" : 1609376687969,
+        "stop" : 1609376692112,
+        "duration" : 4143
+      }
+    } ]
+  },
+  "2b3d21290187f5b704afe83ad059371e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "533e2b110001c76e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609376806577,
+        "stop" : 1609376806579,
+        "duration" : 2
+      }
+    } ]
+  }
+}
