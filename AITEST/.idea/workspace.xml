@@ -136,23 +136,23 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\git\myclone\AITEST" />
-      <recent name="F:\git\myclone\AITEST\testcase\TestAiyunNew" />
-      <recent name="F:\git\myclone\AITEST\testrunner" />
-      <recent name="F:\git\myclone\AITEST\demo\aiyun" />
-      <recent name="F:\python\AITEST\demo" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\git\myclone\AITEST\TestResult\Result\allure_result" />
-      <recent name="F:\git\myclone\AITEST\testcase\TestAiyunNew" />
       <recent name="F:\git\myclone\AITEST" />
+      <recent name="F:\git\myclone\AITEST\testcase\TestAiyunNew" />
       <recent name="F:\git\myclone\AITEST\demo\aiyun" />
       <recent name="F:\python\AITEST\testdata\test_audio" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\git\myclone\AITEST" />
+      <recent name="F:\git\myclone\AITEST\conf" />
+      <recent name="F:\git\myclone\AITEST\testcase\TestAiyunNew" />
+      <recent name="F:\git\myclone\AITEST\testrunner" />
+      <recent name="F:\git\myclone\AITEST\demo\aiyun" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.runallure2">
-    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.conftest">
+    <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AITEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,32 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AITEST" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/TestAiyunNew" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/TestAiyunNew/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conftest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,6 +239,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="runallure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AITEST" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testrunner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testrunner/runallure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="runallure2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AITEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -314,7 +314,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_demo.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_allureDemo.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="AITEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,7 +326,7 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/TestAiyunNew/test_demo.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/TestAiyunNew/test_allureDemo.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -334,20 +334,20 @@
       <item itemvalue="Python.demo0" />
       <item itemvalue="Python.demo5" />
       <item itemvalue="Python.request_api" />
-      <item itemvalue="Python tests.pytest in test_E2Redis.py" />
       <item itemvalue="Python.runallure2" />
-      <item itemvalue="Python tests.pytest in test_demo.py" />
-      <item itemvalue="Python.__init__" />
-      <item itemvalue="Python.__init__ (1)" />
+      <item itemvalue="Python tests.pytest in test_E2Redis.py" />
       <item itemvalue="Python tests.pytest in te_demo2.py" />
+      <item itemvalue="Python.conftest" />
+      <item itemvalue="Python tests.pytest in test_allureDemo.py" />
+      <item itemvalue="Python.runallure" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.conftest" />
         <item itemvalue="Python.runallure2" />
+        <item itemvalue="Python.runallure" />
+        <item itemvalue="Python tests.pytest in test_allureDemo.py" />
         <item itemvalue="Python tests.pytest in te_demo2.py" />
-        <item itemvalue="Python tests.pytest in test_demo.py" />
-        <item itemvalue="Python.__init__ (1)" />
-        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -608,26 +608,26 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="267" y="5" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1609322147028" />
-    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1607675426883">
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1609407334793">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1607675426883" />
-    <state width="1579" height="307" key="GridCell.Tab.0.bottom" timestamp="1609378590761">
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1609407334793" />
+    <state width="1579" height="289" key="GridCell.Tab.0.bottom" timestamp="1609832272758">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="307" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1609378590761" />
-    <state width="1579" height="307" key="GridCell.Tab.0.center" timestamp="1609378590761">
+    <state width="1579" height="289" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1609832272758" />
+    <state width="1579" height="289" key="GridCell.Tab.0.center" timestamp="1609832272758">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="307" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1609378590761" />
-    <state width="1579" height="307" key="GridCell.Tab.0.left" timestamp="1609378590760">
+    <state width="1579" height="289" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1609832272758" />
+    <state width="1579" height="289" key="GridCell.Tab.0.left" timestamp="1609832272758">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="307" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1609378590760" />
-    <state width="1579" height="307" key="GridCell.Tab.0.right" timestamp="1609378590761">
+    <state width="1579" height="289" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1609832272758" />
+    <state width="1579" height="289" key="GridCell.Tab.0.right" timestamp="1609832272758">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="307" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1609378590761" />
+    <state width="1579" height="289" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1609832272758" />
     <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1607427454993">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -656,10 +656,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="501" y="28" width="598" height="804" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1609378456706" />
-    <state x="717" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1604632478449">
+    <state x="717" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1609826187663">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="717" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1604632478449" />
+    <state x="717" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1609826187663" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
